@@ -1,0 +1,298 @@
+[
+  {
+    "family": "GX",
+    "name": "GX20",
+    "url": "https://meraki.cisco.com/products/meraki-go/gx20",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki Go GX20 is a Security Gateway designed for small businesses. It provides stateful firewall, DHCP, and DNS-based security powered by Cisco Umbrella, all managed through the simple Meraki Go mobile app and web portal. Recommended for deployments with 50 clients or fewer.",
+      "Features": [
+        "Stateful firewall",
+        "Port Forwarding",
+        "DHCP services",
+        "DNS-based security powered by Cisco Umbrella (additional subscription required)",
+        "1x 802.3af PoE enabled LAN port (15.5W)",
+        "Kensington lock hard point",
+        "Remote cloud management via mobile app and web portal",
+        "Automatic firmware updates"
+      ],
+      "Specifications": {
+        "WAN Interface": "1x 10/100/1000 BASE-T Ethernet (RJ45)",
+        "LAN Interfaces": "4x 10/100/1000 BASE-T Ethernet (RJ45)",
+        "PoE": "1x 802.3af enabled port (15.5W)",
+        "Operating Temperature": "32°F to 104°F (0°C to 40°C)",
+        "Humidity": "5 to 95% non-condensing",
+        "Power Supply": "50W (54V / 0.92A) included",
+        "Dimensions": "6.83 x 4.41 x 1.04 in (173.4 x 112 x 26.3 mm), excluding feet/mount",
+        "Mounting": "Desktop",
+        "Warranty": "1 year (US/Japan), 2 year (UK/EU)",
+        "Compliance": "Kensington lock hard point"
+      },
+      "Performance": {
+        "Firewall Throughput": "250 Mbps",
+        "Recommended Clients": "50 or fewer"
+      },
+      "Usage": "Designed for small businesses needing basic security gateway functionality. Ideal for offices with up to 50 clients requiring stateful firewall, DHCP, and optional DNS-layer threat protection via Cisco Umbrella.",
+      "LED Indicators": [
+        "2x Ethernet status LEDs",
+        "1x Power/booting/firmware upgrade status LED"
+      ],
+      "In_the_Box": [
+        "GX20-HW: Meraki Go Security Gateway",
+        "Wall mount and screw kit",
+        "Quick start guide",
+        "PSU and ethernet cable"
+      ],
+      "Hardware_SKUs": {
+        "GX20-HW-XX": "Security Gateway - Desktop (XX = US/UK/EU)"
+      },
+      "Accessories": {
+        "GA-PWR-50WAC": "50W Replacement Laptop Style Adapter for GX20"
+      }
+    }
+  },
+  {
+    "family": "GX",
+    "name": "GX50",
+    "url": "https://meraki.cisco.com/products/meraki-go/gx50",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki Go GX50 is a Router Firewall Plus designed for small businesses needing more advanced connectivity. It adds Client VPN and Site-to-Site VPN (GX50 to GX50) on top of the GX20's security gateway features, with 500+ Mbps firewall throughput. Managed entirely through the Meraki Go mobile app.",
+      "Features": [
+        "Stateful firewall",
+        "Port Forwarding",
+        "DHCP services",
+        "DNS-based security powered by Cisco Umbrella (additional subscription required)",
+        "Client VPN",
+        "Site-to-Site VPN (GX50 to GX50 only)",
+        "Kensington lock hard point",
+        "Remote cloud management via mobile app and web portal",
+        "Automatic firmware updates"
+      ],
+      "Specifications": {
+        "WAN Interface": "1x 10/100/1000 BASE-T Ethernet (RJ45)",
+        "LAN Interfaces": "4x 10/100/1000 BASE-T Ethernet (RJ45)",
+        "Operating Temperature": "32°F to 113°F (0°C to 45°C)",
+        "Humidity": "5 to 95% non-condensing",
+        "Power Supply": "18W DC included",
+        "Power Load (idle)": "5W",
+        "Power Load (max)": "14W",
+        "Dimensions": "1.1 x 5.1 x 9.4 in (27 x 130 x 239 mm), excluding feet/mount",
+        "Weight": "1.74 lb / 0.79 kg",
+        "Warranty": "1 year (US/Japan), 2 year (UK/EU)"
+      },
+      "Performance": {
+        "Firewall Throughput": "500+ Mbps",
+        "Client VPN Throughput": "300 Mbps",
+        "VPN Tunnels": "50",
+        "Recommended Clients": "50"
+      },
+      "Usage": "Ideal for small businesses needing VPN capabilities in addition to firewall. Supports client VPN for remote workers and site-to-site VPN between GX50 units for connecting multiple branch offices.",
+      "LED Indicators": [
+        "2x Ethernet status LEDs",
+        "1x Power/booting/firmware upgrade status LED"
+      ],
+      "In_the_Box": [
+        "GX50-HW: Meraki Go Security Gateway",
+        "Wall mount and screw kit",
+        "Quick start guide",
+        "PSU and ethernet cable"
+      ],
+      "Hardware_SKUs": {
+        "GX50-HW-XX": "Security Gateway - Desktop (XX = US/UK/EU)"
+      },
+      "Accessories": {
+        "GA-PWR-50WAC": "50W Replacement Laptop Style Adapter for GX50"
+      }
+    }
+  },
+  {
+    "family": "GR",
+    "name": "GR10",
+    "url": "https://meraki.cisco.com/products/meraki-go/gr10",
+    "images": [],
+    "content": {
+      "Overview": "The Cisco Meraki Go GR10 is a dual-radio, cloud-managed 2x2:2 802.11ac Wave 2 indoor access point with MU-MIMO support. Designed for basic, medium-density deployments, it delivers a maximum 1.04 Gbps aggregate frame rate with concurrent 2.4 GHz and 5 GHz radios. Provides enterprise-grade security with simple management via the Meraki Go mobile app — ideal for small business and home office.",
+      "Features": [
+        "Dual-band 802.11ac Wave 2 with 2x2:2 MU-MIMO",
+        "1.04 Gbps maximum aggregate frame rate",
+        "SU-MIMO and MU-MIMO support",
+        "Maximal ratio combining (MRC) and beamforming",
+        "Up to 256 QAM on both 2.4 GHz and 5 GHz bands",
+        "Packet aggregation",
+        "Up to 4 SSIDs",
+        "PMK and OKC for fast Layer 2 roaming",
+        "Integrated omni-directional antennas",
+        "802.3af PoE powered",
+        "Remote cloud management via mobile app and web portal",
+        "Automatic firmware updates",
+        "RoHS compliant"
+      ],
+      "Specifications": {
+        "Radio 1": "2.4 GHz 802.11b/g/n",
+        "Radio 2": "5 GHz 802.11a/n/ac",
+        "Frequency Bands": "2.412-2.484 GHz; 5.150-5.825 GHz (UNII-1/2/2e/3)",
+        "Antenna": "Integrated omni-directional (5.6 dBi @ 2.4 GHz, 5.3 dBi @ 5 GHz)",
+        "Interface": "1x 10/100/1000 BASE-T Ethernet (RJ45)",
+        "DC Connector": "1x DC power connector (5.5mm x 2.5mm, center positive)",
+        "Power": "802.3af PoE (37-57V) or 12V DC; 11W max",
+        "Operating Temperature": "32°F to 104°F (0°C to 40°C)",
+        "Humidity": "5 to 95% non-condensing",
+        "Dimensions": "7.95 x 5.55 x 1.02 in (202 x 141 x 26 mm), excluding feet/mount",
+        "Weight (Product)": "0.53 lb / 0.24 kg",
+        "Weight (Package)": "1.86 lb / 0.84 kg",
+        "Compliance": "RoHS",
+        "Warranty": "1 year (US/Japan), 2 year (UK/EU)"
+      },
+      "Performance": {
+        "Aggregate Frame Rate": "1.04 Gbps (maximum)",
+        "MIMO": "2x2:2 MU-MIMO",
+        "Channel Widths": "20/40 MHz (802.11n); 20/40/80 MHz (802.11ac)",
+        "Max SSIDs": "4"
+      },
+      "Usage": "Designed for small business and home office indoor Wi-Fi deployments. Best suited for basic to medium-density environments needing reliable dual-band 802.11ac Wave 2 connectivity with simple cloud management.",
+      "In_the_Box": [
+        "GR10-HW: Meraki Go Indoor Access Point",
+        "Wall mount and screw kit",
+        "Quick start guide",
+        "PSU and ethernet cable"
+      ],
+      "Hardware_SKUs": {
+        "GR10-HW": "Meraki Go Indoor Access Point"
+      }
+    }
+  },
+  {
+    "family": "GR",
+    "name": "GR60",
+    "url": "https://meraki.cisco.com/products/meraki-go/gr60",
+    "images": [],
+    "content": {
+      "Overview": "The Cisco Meraki Go GR60 is a dual-radio, cloud-managed 2x2:2 802.11ac Wave 2 outdoor access point with MU-MIMO support. It shares the same radio specs as the GR10 but is built for outdoor deployment with an extended temperature range (-20°C to 55°C), making it suitable for outdoor patios, parking lots, and building exteriors.",
+      "Features": [
+        "Dual-band 802.11ac Wave 2 with 2x2:2 MU-MIMO",
+        "Outdoor-rated hardware for harsh environments",
+        "SU-MIMO and MU-MIMO support",
+        "Maximal ratio combining (MRC) and beamforming",
+        "Up to 256 QAM on both 2.4 GHz and 5 GHz bands",
+        "Packet aggregation",
+        "Up to 4 SSIDs",
+        "PMK and OKC for fast Layer 2 roaming",
+        "Integrated omni-directional antennas",
+        "802.3af PoE powered",
+        "Remote cloud management via mobile app and web portal",
+        "Automatic firmware updates",
+        "RoHS compliant",
+        "EN 60601-1-2 EMC compliance (Medical Directive)"
+      ],
+      "Specifications": {
+        "Radio 1": "2.4 GHz 802.11b/g/n",
+        "Radio 2": "5 GHz 802.11a/n/ac",
+        "Frequency Bands": "2.412-2.484 GHz; 5.150-5.825 GHz (UNII-1/2/2e/3)",
+        "Antenna": "Integrated omni-directional (5.6 dBi @ 2.4 GHz, 5.3 dBi @ 5 GHz)",
+        "Interface": "1x 10/100/1000 BASE-T Ethernet (RJ45)",
+        "DC Connector": "1x DC power connector (5.5mm x 2.5mm, center positive)",
+        "Power": "802.3af PoE (37-57V) or 12V DC; 11W max",
+        "Operating Temperature": "-4°F to 131°F (-20°C to 55°C)",
+        "Humidity": "5 to 95% non-condensing",
+        "Dimensions": "9.57 x 4.53 x 1.26 in (243 x 115 x 32 mm), excluding mount plate",
+        "Weight (Product)": "0.86 lb / 0.39 kg",
+        "Weight (Package)": "2.07 lb / 0.94 kg",
+        "Compliance": "RoHS, EN 60601-1-2 EMC",
+        "Warranty": "1 year (US/Japan/UK/EU)"
+      },
+      "Performance": {
+        "Aggregate Frame Rate": "1.04 Gbps (maximum)",
+        "MIMO": "2x2:2 MU-MIMO",
+        "Channel Widths": "20/40 MHz (802.11n); 20/40/80 MHz (802.11ac)",
+        "Max SSIDs": "4"
+      },
+      "Usage": "Designed for outdoor Wi-Fi deployments in small business environments such as outdoor patios, parking areas, building exteriors, and warehouses. The extended temperature rating makes it suitable for hot and cold climates.",
+      "In_the_Box": [
+        "GR60-HW: Meraki Go Outdoor Access Point",
+        "Wall mount and screw kit",
+        "Quick start guide",
+        "PSU and ethernet cable"
+      ],
+      "Hardware_SKUs": {
+        "GR60-HW": "Meraki Go Outdoor Access Point"
+      }
+    }
+  },
+  {
+    "family": "GS",
+    "name": "GS110",
+    "url": "https://meraki.cisco.com/products/meraki-go/gs110",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki Go GS110 is a family of cloud-managed network switches available in 8, 24, and 48-port configurations with optional PoE. Designed for small businesses, they require no technical expertise to set up (under 10 minutes), include no licensing fees, and are managed remotely via the Meraki Go mobile app and web portal.",
+      "Features": [
+        "Easy setup in under 10 minutes without technical expertise",
+        "No licensing or subscription required",
+        "PoE models eliminate need for separate power adapters for connected devices",
+        "Remote port management — view, enable, or disable ports remotely",
+        "Bulk port settings for time and cost savings",
+        "Connectivity status and power consumption visible per port",
+        "Automatic firmware updates",
+        "Remote cloud management via mobile app and web portal",
+        "Built-in free customer support (email and in-app)",
+        "802.1p Quality of Service with 8 queues",
+        "802.1w/802.1D Rapid Spanning Tree Protocol (RSTP/STP)",
+        "802.1ab LLDP and Cisco Discovery Protocol (CDP)",
+        "Fanless operation on GS110-8, GS110-24, GS110-48 models",
+        "RoHS compliant"
+      ],
+      "Specifications": {
+        "Port Options": "8-port (GS110-8/8P), 24-port (GS110-24/24P), 48-port (GS110-48/48P)",
+        "Ethernet Ports": "10/100/1000BASE-T RJ45 with auto-MDIX",
+        "SFP Uplinks": "2x 1G SFP (all models)",
+        "Management Port": "RJ45 management port (24 and 48-port models)",
+        "MAC Table": "16K entries (24-port models), 32K entries (48-port models)",
+        "Mounting (8-port)": "Wall, utility board, or desktop",
+        "Mounting (24/48-port)": "1U rack (front mount), or desktop",
+        "Power Input": "100-240 VAC, 47-63 Hz",
+        "Power Consumption (8-port)": "5-161W",
+        "Power Consumption (24/48-port)": "8-908W",
+        "PoE Budget (GS110-8P)": "67W",
+        "PoE Budget (GS110-24P)": "195W",
+        "PoE Budget (GS110-48P)": "370W",
+        "Dimensions (GS110-8/8P)": "1.1 x 8.74 x 5.91 in (2.8 x 22.2 x 15 cm)",
+        "Dimensions (GS110-24/24P)": "1.73 x 17.32 x 9.84 in (4.40 x 44 x 25 cm)",
+        "Dimensions (GS110-48)": "1.73 x 17.32 x 9.84 in (4.40 x 44 x 25 cm)",
+        "Dimensions (GS110-48P)": "1.73 x 17.32 x 13.39 in (4.40 x 44 x 34 cm)",
+        "Operating Temperature": "32°F to 104°F (0°C to 40°C)",
+        "Humidity": "5 to 95% non-condensing",
+        "Compliance": "RoHS",
+        "Warranty": "1 year hardware warranty"
+      },
+      "Performance": {
+        "Switching Capacity (GS110-8/P)": "20 Gbps",
+        "Switching Capacity (GS110-24/P)": "56 Gbps",
+        "Switching Capacity (GS110-48/P)": "104 Gbps"
+      },
+      "Usage": "Ideal for small businesses needing affordable, easy-to-manage network switches. The 8-port model suits small offices; 24 and 48-port models for larger offices or retail. PoE models power access points, IP cameras, and phones without separate adapters.",
+      "In_the_Box": [
+        "GS110-HW: Meraki Go Network Switch",
+        "Mount and screw kit",
+        "Quick start guide",
+        "Power Cable / Power Supply"
+      ],
+      "Hardware_SKUs": {
+        "GS110-8-HW-XX": "8 Port Switch - Non PoE",
+        "GS110-8P-HW-XX": "8 Port Switch - PoE",
+        "GS110-24-HW-XX": "24 Port Switch - Non PoE",
+        "GS110-24P-HW-XX": "24 Port Switch - PoE",
+        "GS110-48-HW-XX": "48 Port Switch - Non PoE",
+        "GS110-48P-HW-XX": "48 Port Switch - PoE"
+      },
+      "Accessories": {
+        "GA-PWR-30WAC": "30W Replacement Adapter for GS110-8",
+        "GA-PWR-90WAC": "90W Replacement Adapter for GS110-8P",
+        "GA-MNT-MID-1": "Mid Mount for GS110-48 and GS110-48P",
+        "GA-PWR-CORDUS": "US Power Cord for GS",
+        "GA-PWR-CORDUK": "UK Power Cord",
+        "GA-PWR-CORDEU": "EU Power Cord"
+      }
+    }
+  }
+]

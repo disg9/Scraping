@@ -1,0 +1,16 @@
+CISCO MERAKI GO SCRAPE REPORT
+========================================
+Total products: 5
+
+Products extracted:
+  ✓ GX20       | family: GX | specs: 10
+  ✓ GX50       | family: GX | specs: 10
+  ✓ GR10       | family: GR | specs: 14
+  ✓ GR60       | family: GR | specs: 14
+  ✓ GS110      | family: GS | specs: 21
+
+Notes:
+  - Data hardcoded directly from individual product datasheets (2-page PDFs)
+  - GS110 covers all 6 SKUs (8/8P/24/24P/48/48P) in one entry
+  - No licensing fees for Meraki Go products
+  - 'images' field empty (no extractable image URLs in PDFs)

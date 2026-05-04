@@ -1,0 +1,363 @@
+[
+  {
+    "family": "MT",
+    "name": "MT10",
+    "url": "https://meraki.cisco.com/products/sensors/mt10/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki MT sensor family intelligently monitors indoor environments to\nhelp organizations build a smarter, more sustainable future. With MT sensors,\nIT, facilities, and operations teams can minimize business disruptions, reduce\nunnecessary costs, maximize resources, and improve employee/customer\nexperiences.",
+      "Key Benefits": [
+        "Take control of your future",
+        "See what’s around every corner",
+        "Integrate. Automate. Innovate."
+      ],
+      "Features": [
+        "Accelerate deployment with automatic, wireless connectivity to MR/MV gateways",
+        "Protect people, business assets, and more by monitoring power consumption and • Get secure device authentication and environmental conditions encryption with the Cisco Trust Anchor module",
+        "Identify anomalies and trends with Analytics tailored to your business visualizations and minute-by-minute data reporting • Build applications custom for your business through the vast partner ecosystem",
+        "Create a smarter, more sustainable future with Meraki energy-saving charts • Analyze data your way with .csv, .xls, API, or MQTT export options Never miss an event",
+        "Stay in-the-know with real-time alerts via email, SMS, push notification, or webhook",
+        "Gain complete visibility by associating sensor events with MV camera footage",
+        "Monitor and troubleshoot on-the-go with the Meraki mobile app Cloud-first architecture",
+        "Cloud-based management eliminates the need for on-premises servers",
+        "Visibility alongside other Meraki products on the dashboard empowers lean teams",
+        "Give facilities teams direct access to sensor data"
+      ],
+      "Specifications": {
+        "SKU": "MT10-HW",
+        "Description": "Indoor temperature and humidity sensor",
+        "Connectivity": "Bluetooth Low Energy (BLE) to MR/MV gateway",
+        "Management": "Cloud-managed via Meraki dashboard",
+        "Data Export": ".csv, .xls, API, MQTT",
+        "Local Storage": "Up to 5 days onboard",
+        "Alerts": "SMS, email, push notification, webhook"
+      },
+      "Usage": "Indoor temperature and humidity sensor",
+      "Accessories": [],
+      "Licensing": {
+        "SKU": "LIC-MT-XY",
+        "Description": "Meraki MT Enterprise license (X = 1, 3, 5, 7 years)"
+      }
+    }
+  },
+  {
+    "family": "MT",
+    "name": "MT11",
+    "url": "https://meraki.cisco.com/products/sensors/mt11/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki MT sensor family intelligently monitors indoor environments to\nhelp organizations build a smarter, more sustainable future. With MT sensors,\nIT, facilities, and operations teams can minimize business disruptions, reduce\nunnecessary costs, maximize resources, and improve employee/customer\nexperiences.",
+      "Key Benefits": [
+        "Take control of your future",
+        "See what’s around every corner",
+        "Integrate. Automate. Innovate."
+      ],
+      "Features": [
+        "Accelerate deployment with automatic, wireless connectivity to MR/MV gateways",
+        "Protect people, business assets, and more by monitoring power consumption and • Get secure device authentication and environmental conditions encryption with the Cisco Trust Anchor module",
+        "Identify anomalies and trends with Analytics tailored to your business visualizations and minute-by-minute data reporting • Build applications custom for your business through the vast partner ecosystem",
+        "Create a smarter, more sustainable future with Meraki energy-saving charts • Analyze data your way with .csv, .xls, API, or MQTT export options Never miss an event",
+        "Stay in-the-know with real-time alerts via email, SMS, push notification, or webhook",
+        "Gain complete visibility by associating sensor events with MV camera footage",
+        "Monitor and troubleshoot on-the-go with the Meraki mobile app Cloud-first architecture",
+        "Cloud-based management eliminates the need for on-premises servers",
+        "Visibility alongside other Meraki products on the dashboard empowers lean teams",
+        "Give facilities teams direct access to sensor data"
+      ],
+      "Specifications": {
+        "SKU": "MT11-HW",
+        "Description": "Indoor temperature probe sensor",
+        "Connectivity": "Bluetooth Low Energy (BLE) to MR/MV gateway",
+        "Management": "Cloud-managed via Meraki dashboard",
+        "Data Export": ".csv, .xls, API, MQTT",
+        "Local Storage": "Up to 5 days onboard",
+        "Alerts": "SMS, email, push notification, webhook"
+      },
+      "Usage": "Indoor temperature probe sensor",
+      "Accessories": [
+        {
+          "sku": "MA-CBL-TEMP-ME-1",
+          "description": "Bare metal temperature probe for MT11"
+        },
+        {
+          "sku": "MA-CBL-TEMP-GL-1",
+          "description": "Glycol-encased temperature probe for MT11"
+        }
+      ],
+      "Licensing": {
+        "SKU": "LIC-MT-XY",
+        "Description": "Meraki MT Enterprise license (X = 1, 3, 5, 7 years)"
+      }
+    }
+  },
+  {
+    "family": "MT",
+    "name": "MT12",
+    "url": "https://meraki.cisco.com/products/sensors/mt12/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki MT sensor family intelligently monitors indoor environments to\nhelp organizations build a smarter, more sustainable future. With MT sensors,\nIT, facilities, and operations teams can minimize business disruptions, reduce\nunnecessary costs, maximize resources, and improve employee/customer\nexperiences.",
+      "Key Benefits": [
+        "Take control of your future",
+        "See what’s around every corner",
+        "Integrate. Automate. Innovate."
+      ],
+      "Features": [
+        "Accelerate deployment with automatic, wireless connectivity to MR/MV gateways",
+        "Protect people, business assets, and more by monitoring power consumption and • Get secure device authentication and environmental conditions encryption with the Cisco Trust Anchor module",
+        "Identify anomalies and trends with Analytics tailored to your business visualizations and minute-by-minute data reporting • Build applications custom for your business through the vast partner ecosystem",
+        "Create a smarter, more sustainable future with Meraki energy-saving charts • Analyze data your way with .csv, .xls, API, or MQTT export options Never miss an event",
+        "Stay in-the-know with real-time alerts via email, SMS, push notification, or webhook",
+        "Gain complete visibility by associating sensor events with MV camera footage",
+        "Monitor and troubleshoot on-the-go with the Meraki mobile app Cloud-first architecture",
+        "Cloud-based management eliminates the need for on-premises servers",
+        "Visibility alongside other Meraki products on the dashboard empowers lean teams",
+        "Give facilities teams direct access to sensor data"
+      ],
+      "Specifications": {
+        "SKU": "MT12-HW",
+        "Description": "Indoor water leak detection sensor",
+        "Connectivity": "Bluetooth Low Energy (BLE) to MR/MV gateway",
+        "Management": "Cloud-managed via Meraki dashboard",
+        "Data Export": ".csv, .xls, API, MQTT",
+        "Local Storage": "Up to 5 days onboard",
+        "Alerts": "SMS, email, push notification, webhook"
+      },
+      "Usage": "Indoor water leak detection sensor",
+      "Accessories": [
+        {
+          "sku": "MA-CBL-LEAK-1",
+          "description": "8 ft (2.4 m) water leak detection cable for MT12"
+        },
+        {
+          "sku": "MA-CBL-LEAK-2",
+          "description": "Spot leak detection cradle for MT12"
+        }
+      ],
+      "Licensing": {
+        "SKU": "LIC-MT-XY",
+        "Description": "Meraki MT Enterprise license (X = 1, 3, 5, 7 years)"
+      }
+    }
+  },
+  {
+    "family": "MT",
+    "name": "MT14",
+    "url": "https://meraki.cisco.com/products/sensors/mt14/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki MT sensor family intelligently monitors indoor environments to\nhelp organizations build a smarter, more sustainable future. With MT sensors,\nIT, facilities, and operations teams can minimize business disruptions, reduce\nunnecessary costs, maximize resources, and improve employee/customer\nexperiences.",
+      "Key Benefits": [
+        "Take control of your future",
+        "See what’s around every corner",
+        "Integrate. Automate. Innovate."
+      ],
+      "Features": [
+        "Accelerate deployment with automatic, wireless connectivity to MR/MV gateways",
+        "Protect people, business assets, and more by monitoring power consumption and • Get secure device authentication and environmental conditions encryption with the Cisco Trust Anchor module",
+        "Identify anomalies and trends with Analytics tailored to your business visualizations and minute-by-minute data reporting • Build applications custom for your business through the vast partner ecosystem",
+        "Create a smarter, more sustainable future with Meraki energy-saving charts • Analyze data your way with .csv, .xls, API, or MQTT export options Never miss an event",
+        "Stay in-the-know with real-time alerts via email, SMS, push notification, or webhook",
+        "Gain complete visibility by associating sensor events with MV camera footage",
+        "Monitor and troubleshoot on-the-go with the Meraki mobile app Cloud-first architecture",
+        "Cloud-based management eliminates the need for on-premises servers",
+        "Visibility alongside other Meraki products on the dashboard empowers lean teams",
+        "Give facilities teams direct access to sensor data"
+      ],
+      "Specifications": {
+        "SKU": "MT14-HW",
+        "Description": "Indoor air quality sensor",
+        "Connectivity": "Bluetooth Low Energy (BLE) to MR/MV gateway",
+        "Management": "Cloud-managed via Meraki dashboard",
+        "Data Export": ".csv, .xls, API, MQTT",
+        "Local Storage": "Up to 5 days onboard",
+        "Alerts": "SMS, email, push notification, webhook"
+      },
+      "Usage": "Indoor air quality sensor",
+      "Accessories": [
+        {
+          "sku": "MA-PWR-USB-XX",
+          "description": "External power adapter (XX= US, EU, UK, or AU)"
+        }
+      ],
+      "Licensing": {
+        "SKU": "LIC-MT-XY",
+        "Description": "Meraki MT Enterprise license (X = 1, 3, 5, 7 years)"
+      }
+    }
+  },
+  {
+    "family": "MT",
+    "name": "MT15",
+    "url": "https://meraki.cisco.com/products/sensors/mt15/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki MT sensor family intelligently monitors indoor environments to\nhelp organizations build a smarter, more sustainable future. With MT sensors,\nIT, facilities, and operations teams can minimize business disruptions, reduce\nunnecessary costs, maximize resources, and improve employee/customer\nexperiences.",
+      "Key Benefits": [
+        "Take control of your future",
+        "See what’s around every corner",
+        "Integrate. Automate. Innovate."
+      ],
+      "Features": [
+        "Accelerate deployment with automatic, wireless connectivity to MR/MV gateways",
+        "Protect people, business assets, and more by monitoring power consumption and • Get secure device authentication and environmental conditions encryption with the Cisco Trust Anchor module",
+        "Identify anomalies and trends with Analytics tailored to your business visualizations and minute-by-minute data reporting • Build applications custom for your business through the vast partner ecosystem",
+        "Create a smarter, more sustainable future with Meraki energy-saving charts • Analyze data your way with .csv, .xls, API, or MQTT export options Never miss an event",
+        "Stay in-the-know with real-time alerts via email, SMS, push notification, or webhook",
+        "Gain complete visibility by associating sensor events with MV camera footage",
+        "Monitor and troubleshoot on-the-go with the Meraki mobile app Cloud-first architecture",
+        "Cloud-based management eliminates the need for on-premises servers",
+        "Visibility alongside other Meraki products on the dashboard empowers lean teams",
+        "Give facilities teams direct access to sensor data"
+      ],
+      "Specifications": {
+        "SKU": "MT15-HW",
+        "Description": "Indoor air quality with CO2 sensor",
+        "Connectivity": "Bluetooth Low Energy (BLE) to MR/MV gateway",
+        "Management": "Cloud-managed via Meraki dashboard",
+        "Data Export": ".csv, .xls, API, MQTT",
+        "Local Storage": "Up to 5 days onboard",
+        "Alerts": "SMS, email, push notification, webhook"
+      },
+      "Usage": "Indoor air quality with CO2 sensor",
+      "Accessories": [
+        {
+          "sku": "MA-PWR-USB-XX",
+          "description": "External power adapter (XX= US, EU, UK, or AU)"
+        }
+      ],
+      "Licensing": {
+        "SKU": "LIC-MT-XY",
+        "Description": "Meraki MT Enterprise license (X = 1, 3, 5, 7 years)"
+      }
+    }
+  },
+  {
+    "family": "MT",
+    "name": "MT20",
+    "url": "https://meraki.cisco.com/products/sensors/mt20/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki MT sensor family intelligently monitors indoor environments to\nhelp organizations build a smarter, more sustainable future. With MT sensors,\nIT, facilities, and operations teams can minimize business disruptions, reduce\nunnecessary costs, maximize resources, and improve employee/customer\nexperiences.",
+      "Key Benefits": [
+        "Take control of your future",
+        "See what’s around every corner",
+        "Integrate. Automate. Innovate."
+      ],
+      "Features": [
+        "Accelerate deployment with automatic, wireless connectivity to MR/MV gateways",
+        "Protect people, business assets, and more by monitoring power consumption and • Get secure device authentication and environmental conditions encryption with the Cisco Trust Anchor module",
+        "Identify anomalies and trends with Analytics tailored to your business visualizations and minute-by-minute data reporting • Build applications custom for your business through the vast partner ecosystem",
+        "Create a smarter, more sustainable future with Meraki energy-saving charts • Analyze data your way with .csv, .xls, API, or MQTT export options Never miss an event",
+        "Stay in-the-know with real-time alerts via email, SMS, push notification, or webhook",
+        "Gain complete visibility by associating sensor events with MV camera footage",
+        "Monitor and troubleshoot on-the-go with the Meraki mobile app Cloud-first architecture",
+        "Cloud-based management eliminates the need for on-premises servers",
+        "Visibility alongside other Meraki products on the dashboard empowers lean teams",
+        "Give facilities teams direct access to sensor data"
+      ],
+      "Specifications": {
+        "SKU": "MT20-HW",
+        "Description": "Indoor door open/close sensor",
+        "Connectivity": "Bluetooth Low Energy (BLE) to MR/MV gateway",
+        "Management": "Cloud-managed via Meraki dashboard",
+        "Data Export": ".csv, .xls, API, MQTT",
+        "Local Storage": "Up to 5 days onboard",
+        "Alerts": "SMS, email, push notification, webhook"
+      },
+      "Usage": "Indoor door open/close sensor",
+      "Accessories": [],
+      "Licensing": {
+        "SKU": "LIC-MT-XY",
+        "Description": "Meraki MT Enterprise license (X = 1, 3, 5, 7 years)"
+      }
+    }
+  },
+  {
+    "family": "MT",
+    "name": "MT30",
+    "url": "https://meraki.cisco.com/products/sensors/mt30/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki MT sensor family intelligently monitors indoor environments to\nhelp organizations build a smarter, more sustainable future. With MT sensors,\nIT, facilities, and operations teams can minimize business disruptions, reduce\nunnecessary costs, maximize resources, and improve employee/customer\nexperiences.",
+      "Key Benefits": [
+        "Take control of your future",
+        "See what’s around every corner",
+        "Integrate. Automate. Innovate."
+      ],
+      "Features": [
+        "Accelerate deployment with automatic, wireless connectivity to MR/MV gateways",
+        "Protect people, business assets, and more by monitoring power consumption and • Get secure device authentication and environmental conditions encryption with the Cisco Trust Anchor module",
+        "Identify anomalies and trends with Analytics tailored to your business visualizations and minute-by-minute data reporting • Build applications custom for your business through the vast partner ecosystem",
+        "Create a smarter, more sustainable future with Meraki energy-saving charts • Analyze data your way with .csv, .xls, API, or MQTT export options Never miss an event",
+        "Stay in-the-know with real-time alerts via email, SMS, push notification, or webhook",
+        "Gain complete visibility by associating sensor events with MV camera footage",
+        "Monitor and troubleshoot on-the-go with the Meraki mobile app Cloud-first architecture",
+        "Cloud-based management eliminates the need for on-premises servers",
+        "Visibility alongside other Meraki products on the dashboard empowers lean teams",
+        "Give facilities teams direct access to sensor data"
+      ],
+      "Specifications": {
+        "SKU": "MT30-HW",
+        "Description": "Indoor/outdoor smart automation button",
+        "Connectivity": "Bluetooth Low Energy (BLE) to MR/MV gateway",
+        "Management": "Cloud-managed via Meraki dashboard",
+        "Data Export": ".csv, .xls, API, MQTT",
+        "Local Storage": "Up to 5 days onboard",
+        "Alerts": "SMS, email, push notification, webhook"
+      },
+      "Usage": "Indoor/outdoor smart automation button",
+      "Accessories": [],
+      "Licensing": {
+        "SKU": "LIC-MT-XY",
+        "Description": "Meraki MT Enterprise license (X = 1, 3, 5, 7 years)"
+      }
+    }
+  },
+  {
+    "family": "MT",
+    "name": "MT40",
+    "url": "https://meraki.cisco.com/products/sensors/mt40/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki MT sensor family intelligently monitors indoor environments to\nhelp organizations build a smarter, more sustainable future. With MT sensors,\nIT, facilities, and operations teams can minimize business disruptions, reduce\nunnecessary costs, maximize resources, and improve employee/customer\nexperiences.",
+      "Key Benefits": [
+        "Take control of your future",
+        "See what’s around every corner",
+        "Integrate. Automate. Innovate."
+      ],
+      "Features": [
+        "Accelerate deployment with automatic, wireless connectivity to MR/MV gateways",
+        "Protect people, business assets, and more by monitoring power consumption and • Get secure device authentication and environmental conditions encryption with the Cisco Trust Anchor module",
+        "Identify anomalies and trends with Analytics tailored to your business visualizations and minute-by-minute data reporting • Build applications custom for your business through the vast partner ecosystem",
+        "Create a smarter, more sustainable future with Meraki energy-saving charts • Analyze data your way with .csv, .xls, API, or MQTT export options Never miss an event",
+        "Stay in-the-know with real-time alerts via email, SMS, push notification, or webhook",
+        "Gain complete visibility by associating sensor events with MV camera footage",
+        "Monitor and troubleshoot on-the-go with the Meraki mobile app Cloud-first architecture",
+        "Cloud-based management eliminates the need for on-premises servers",
+        "Visibility alongside other Meraki products on the dashboard empowers lean teams",
+        "Give facilities teams direct access to sensor data"
+      ],
+      "Specifications": {
+        "SKU": "MT40-HW",
+        "Description": "Indoor smart power controller",
+        "Connectivity": "Bluetooth Low Energy (BLE) to MR/MV gateway",
+        "Management": "Cloud-managed via Meraki dashboard",
+        "Data Export": ".csv, .xls, API, MQTT",
+        "Local Storage": "Up to 5 days onboard",
+        "Alerts": "SMS, email, push notification, webhook"
+      },
+      "Usage": "Indoor smart power controller",
+      "Accessories": [
+        {
+          "sku": "MA-PWR-CORD-XX",
+          "description": "Regional power input cable (XX= US, EU, UK, or AU)"
+        }
+      ],
+      "Licensing": {
+        "SKU": "LIC-MT-XY",
+        "Description": "Meraki MT Enterprise license (X = 1, 3, 5, 7 years)"
+      }
+    }
+  }
+]

@@ -1,0 +1,1316 @@
+[
+  {
+    "family": "MR",
+    "name": "CW9176I/D1",
+    "url": "https://meraki.cisco.com/products/wi-fi/cw9176i-d1/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 7",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": "High-performance Wi-Fi 7 AP",
+        "Radio specification": "Tri-band (2.4 GHz, 5 GHz & 6 GHz)",
+        "Spatial streams": [
+          "12 spatial streams",
+          "4x4: 4 MU-MIMO",
+          "across 3 radios, 3 bands",
+          "(2.4 GHz, 5 GHz, 6 GHz)"
+        ],
+        "WIDS/WIPS": "Tri-band",
+        "Bluetooth® Low Energy/ IoT Radio": "✓",
+        "Aggregate frame rate": "18 Gbps",
+        "Interface": "Single multigigabit 10 Gbps interface",
+        "UWB": "Yes",
+        "USB 2.0": "9W",
+        "Management": [
+          "Cloud-managed with Meraki cloud",
+          "Managed on premises with Cisco Catalsyt Center"
+        ],
+        "Power": "802.3at/bt PoE+ and UPoE compliant",
+        "Performance features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring, SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax); 20, 40, 80, 160, and 320 MHz channels",
+          "(802.11be)",
+          "Up to 4K-QAM packet aggregation"
+        ],
+        "Dimensions": "242.3 mm x 242.25 mm x 52.8 mm",
+        "Weight": [
+          "1.56 kg (9176I),",
+          "1.53 kg (9176D1)"
+        ]
+      },
+      "Usage": "High-performance Wi-Fi 7 AP",
+      "Performance": {
+        "Radio Specification": "Tri-band (2.4 GHz, 5 GHz & 6 GHz)",
+        "Aggregate Frame Rate": "18 Gbps",
+        "Spatial Streams": [
+          "12 spatial streams",
+          "4x4: 4 MU-MIMO",
+          "across 3 radios, 3 bands",
+          "(2.4 GHz, 5 GHz, 6 GHz)"
+        ],
+        "Performance Features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring, SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax); 20, 40, 80, 160, and 320 MHz channels",
+          "(802.11be)",
+          "Up to 4K-QAM packet aggregation"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "CW9178I",
+    "url": "https://meraki.cisco.com/products/wi-fi/cw9178i/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 7",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": "Ultra-high-performance Wi-Fi 7 AP",
+        "Radio specification": "Tri-band (2.4 GHz, 5 GHz & 6 GHz)",
+        "Spatial streams": [
+          "16 spatial streams",
+          "4x4: 4 MU-MIMO",
+          "across 4 radios, 3 bands",
+          "(2.4 GHz, 5 GHz, 5 GHz, 6 GHz)"
+        ],
+        "WIDS/WIPS": "Tri-band",
+        "Bluetooth® Low Energy/ IoT Radio": "✓",
+        "Aggregate frame rate": "24 Gbps (in quad radio)",
+        "Interface": "Dual multigigabit 10 Gbps interface",
+        "UWB": "Yes",
+        "USB 2.0": "9W",
+        "Management": [
+          "Cloud-managed with Meraki cloud",
+          "Managed on premises with Cisco Catalsyt Center"
+        ],
+        "Power": "802.3at/bt PoE+ and UPoE compliant",
+        "Performance features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring, SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax); 20, 40, 80, 160, and 320 MHz channels",
+          "(802.11be)",
+          "Up to 4K-QAM packet aggregation"
+        ],
+        "Dimensions": "251.5 mm x 251.5 mm x 50.8 mm",
+        "Weight": "1.87 kg"
+      },
+      "Usage": "Ultra-high-performance Wi-Fi 7 AP",
+      "Performance": {
+        "Radio Specification": "Tri-band (2.4 GHz, 5 GHz & 6 GHz)",
+        "Aggregate Frame Rate": "24 Gbps (in quad radio)",
+        "Spatial Streams": [
+          "16 spatial streams",
+          "4x4: 4 MU-MIMO",
+          "across 4 radios, 3 bands",
+          "(2.4 GHz, 5 GHz, 5 GHz, 6 GHz)"
+        ],
+        "Performance Features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring, SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax); 20, 40, 80, 160, and 320 MHz channels",
+          "(802.11be)",
+          "Up to 4K-QAM packet aggregation"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "9172H",
+    "url": "https://meraki.cisco.com/products/wi-fi/9172h/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 7",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": "Hospitality, multi-dwelling units",
+        "Radio specification": "802.11be, Wi-Fi 7",
+        "Spatial streams": [
+          "2.4 GHz: 2x2:2",
+          "5 GHz: 2x2:2",
+          "6 GHz: 2x2:2"
+        ],
+        "WIDS/WIPS": "✓",
+        "Bluetooth® Low Energy/ IoT Radio": "✓",
+        "Aggregate frame rate": "9000 Mbps",
+        "Interface": [
+          "1x 2.5 Gbps uplink",
+          "3x 1 Gbps LAN ports (with 1 port POE out)",
+          "1x passthrough port",
+          "1x RJ45 console port"
+        ],
+        "USB 2.0": "No",
+        "Management": "On premises or cloud",
+        "Power": [
+          "30W for full radio operation",
+          "45W to enable PoE out"
+        ],
+        "Performance features": [
+          "Tri-radio 6 spatial stream",
+          "Wi-Fi 7 802.11be on all three radios",
+          "2.4 GHz + 5 GHz + 6 GHz (all 2x2:2)",
+          "1x 2.5 Gbps",
+          "3x 1 Gbps",
+          "1x passthrough Ethernet port",
+          "Dedicated scan/auxiliary radio, IoT radio (BLE, 802.15.4)",
+          "Compatible with existing C9105AXW (AIR-AP-",
+          "BRACKET-W4) and MR36H (MA-MNT-MR-H1A) mounts"
+        ],
+        "Dimensions": "5 in x 7 in x 1 in (127 mm x 178 mm x 25 mm)",
+        "Weight": "1 lb 5 oz (595 g)"
+      },
+      "Usage": "Hospitality, multi-dwelling units",
+      "Performance": {
+        "Radio Specification": "802.11be, Wi-Fi 7",
+        "Aggregate Frame Rate": "9000 Mbps",
+        "Spatial Streams": [
+          "2.4 GHz: 2x2:2",
+          "5 GHz: 2x2:2",
+          "6 GHz: 2x2:2"
+        ],
+        "Performance Features": [
+          "Tri-radio 6 spatial stream",
+          "Wi-Fi 7 802.11be on all three radios",
+          "2.4 GHz + 5 GHz + 6 GHz (all 2x2:2)",
+          "1x 2.5 Gbps",
+          "3x 1 Gbps",
+          "1x passthrough Ethernet port",
+          "Dedicated scan/auxiliary radio, IoT radio (BLE, 802.15.4)",
+          "Compatible with existing C9105AXW (AIR-AP-",
+          "BRACKET-W4) and MR36H (MA-MNT-MR-H1A) mounts"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "9172I",
+    "url": "https://meraki.cisco.com/products/wi-fi/9172i/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 7",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": "Branch office, small/home office, SMB, retail",
+        "Radio specification": "802.11be, Wi-Fi 7",
+        "Spatial streams": [
+          "2.4 GHz: 2x2:2",
+          "5 GHz: 2x2:2 (with 6 GHz radio enabled), 4x4:4 (with 6 GHz",
+          "radio disabled)",
+          "6 GHz: 2x2:2"
+        ],
+        "WIDS/WIPS": "✓",
+        "Bluetooth® Low Energy/ IoT Radio": "✓",
+        "Aggregate frame rate": "up to 9000 Mbps",
+        "Interface": [
+          "1x 2.5 Gbps uplink",
+          "1x RJ45 console port"
+        ],
+        "USB 2.0": "Yes",
+        "Management": "On premises or cloud",
+        "Power": [
+          "30W for full radio operation",
+          "45W to enable USB port"
+        ],
+        "Performance features": [
+          "Tri-radio or dual radio 6 spatial stream",
+          "Wi-Fi 7 802.11be on all radios",
+          "2.4 GHz + 5 GHz + 6 GHz (all 2x2:2) or 2.4 GHz (2x2:2) +",
+          "5 GHz (4x4:4)",
+          "1x 2.5 Gbps",
+          "Dedicated scan/auxiliary radio",
+          "IoT radio (BLE, 802.15.4)",
+          "USB 2.0 port",
+          "DC power jack"
+        ],
+        "Dimensions": "8 in x 8 in x 1.8 in (203 mm x 203 mm x 46 mm)",
+        "Weight": "1 lb 15 oz (879 g)"
+      },
+      "Usage": "Branch office, small/home office, SMB, retail",
+      "Performance": {
+        "Radio Specification": "802.11be, Wi-Fi 7",
+        "Aggregate Frame Rate": "up to 9000 Mbps",
+        "Spatial Streams": [
+          "2.4 GHz: 2x2:2",
+          "5 GHz: 2x2:2 (with 6 GHz radio enabled), 4x4:4 (with 6 GHz",
+          "radio disabled)",
+          "6 GHz: 2x2:2"
+        ],
+        "Performance Features": [
+          "Tri-radio or dual radio 6 spatial stream",
+          "Wi-Fi 7 802.11be on all radios",
+          "2.4 GHz + 5 GHz + 6 GHz (all 2x2:2) or 2.4 GHz (2x2:2) +",
+          "5 GHz (4x4:4)",
+          "1x 2.5 Gbps",
+          "Dedicated scan/auxiliary radio",
+          "IoT radio (BLE, 802.15.4)",
+          "USB 2.0 port",
+          "DC power jack"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "CW9162",
+    "url": "https://meraki.cisco.com/products/wi-fi/cw9162/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6E",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "General purpose",
+          "Wi-Fi 6E AP"
+        ],
+        "Spatial streams": "2x 2:2 MU-MIMO",
+        "Bluetooth® Low Energy/ IoT Radio": "✓",
+        "Interface": [
+          "One multigigabit",
+          "2.5G"
+        ],
+        "Management": [
+          "Cloud-managed with",
+          "Meraki cloud;",
+          "managed on",
+          "premises with Cisco",
+          "Catalyst Center"
+        ],
+        "Performance features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring",
+          "SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax)",
+          "Up to 1024-QAM on all three: 2.4 GHz, 5 GHz, and 6 GHz bands",
+          "Packet aggregation"
+        ],
+        "Weight": "2.05 lb (0.93 kg)"
+      },
+      "Usage": [
+        "General purpose",
+        "Wi-Fi 6E AP"
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "2x 2:2 MU-MIMO",
+        "Performance Features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring",
+          "SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax)",
+          "Up to 1024-QAM on all three: 2.4 GHz, 5 GHz, and 6 GHz bands",
+          "Packet aggregation"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "CW9164",
+    "url": "https://meraki.cisco.com/products/wi-fi/cw9164/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6E",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "High-performance",
+          "Wi-Fi 6E AP"
+        ],
+        "Spatial streams": [
+          "2x 2:2 MU-MIMO",
+          "(2.4 GHz)",
+          "Four 4x4 MU-MIMO",
+          "(5 GHz & 6 GHz)"
+        ],
+        "Bluetooth® Low Energy/ IoT Radio": "✓",
+        "Interface": [
+          "One multigigabit",
+          "2.5G"
+        ],
+        "Management": [
+          "Cloud-managed with",
+          "Meraki cloud;",
+          "managed on",
+          "premises with Cisco",
+          "Catalyst Center"
+        ],
+        "Performance features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring",
+          "SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax)",
+          "Up to 1024-QAM on all three: 2.4 GHz, 5 GHz, and 6 GHz bands",
+          "Packet aggregation"
+        ],
+        "Weight": "3.54 lb (1.60 kg)"
+      },
+      "Usage": [
+        "High-performance",
+        "Wi-Fi 6E AP"
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": [
+          "2x 2:2 MU-MIMO",
+          "(2.4 GHz)",
+          "Four 4x4 MU-MIMO",
+          "(5 GHz & 6 GHz)"
+        ],
+        "Performance Features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring",
+          "SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax)",
+          "Up to 1024-QAM on all three: 2.4 GHz, 5 GHz, and 6 GHz bands",
+          "Packet aggregation"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "CW9166",
+    "url": "https://meraki.cisco.com/products/wi-fi/cw9166/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6E",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Ultra-high-",
+          "performance Wi-Fi",
+          "6E AP"
+        ],
+        "Spatial streams": "4x 4:4 MU-MIMO",
+        "Bluetooth® Low Energy/ IoT Radio": "✓",
+        "Interface": "One multigigabit 5G",
+        "Management": [
+          "Cloud-managed",
+          "with Meraki cloud;",
+          "managed on",
+          "premises with Cisco",
+          "Catalyst Center"
+        ],
+        "Performance features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring",
+          "SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax)",
+          "Up to 1024-QAM on all three: 2.4 GHz, 5 GHz, and 6 GHz bands",
+          "Packet aggregation"
+        ],
+        "Weight": "3.54 lb (1.60 kg)"
+      },
+      "Usage": [
+        "Ultra-high-",
+        "performance Wi-Fi",
+        "6E AP"
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "4x 4:4 MU-MIMO",
+        "Performance Features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring",
+          "SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax)",
+          "Up to 1024-QAM on all three: 2.4 GHz, 5 GHz, and 6 GHz bands",
+          "Packet aggregation"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "CW9166D1",
+    "url": "https://meraki.cisco.com/products/wi-fi/cw9166d1/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6E",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Ultra-high-",
+          "performance Wi-Fi",
+          "6E AP with integrated",
+          "directional antenna"
+        ],
+        "Spatial streams": "4x 4:4 MU-MIMO",
+        "Bluetooth® Low Energy/ IoT Radio": "✓",
+        "Interface": "One multigigabit 5G",
+        "Management": [
+          "Cloud-managed with",
+          "Meraki cloud;",
+          "managed on",
+          "premises with Cisco",
+          "Catalyst Center"
+        ],
+        "Performance features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring",
+          "SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax)",
+          "Up to 1024-QAM on all three: 2.4 GHz, 5 GHz, and 6 GHz bands",
+          "Packet aggregation"
+        ],
+        "Weight": "3.50 lb (1.59 kg)"
+      },
+      "Usage": [
+        "Ultra-high-",
+        "performance Wi-Fi",
+        "6E AP with integrated",
+        "directional antenna"
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "4x 4:4 MU-MIMO",
+        "Performance Features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring",
+          "SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax)",
+          "Up to 1024-QAM on all three: 2.4 GHz, 5 GHz, and 6 GHz bands",
+          "Packet aggregation"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "MR57",
+    "url": "https://meraki.cisco.com/products/wi-fi/mr57/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6E",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Ultra-high-",
+          "performance Wi-Fi",
+          "6E AP"
+        ],
+        "Spatial streams": "4x 4:4 MU-MIMO",
+        "Bluetooth® Low Energy/ IoT Radio": "✓",
+        "Interface": "Dual multigigabit 5G",
+        "Management": [
+          "Cloud-managed with",
+          "Meraki cloud"
+        ],
+        "Performance features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring",
+          "SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax)",
+          "Up to 1024-QAM on all three: 2.4 GHz, 5 GHz, and 6 GHz bands",
+          "Packet aggregation"
+        ],
+        "Weight": "3.75 lb (1.7 kg)"
+      },
+      "Usage": [
+        "Ultra-high-",
+        "performance Wi-Fi",
+        "6E AP"
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "4x 4:4 MU-MIMO",
+        "Performance Features": [
+          "UL/DL-OFDMA, TWT support, BSS coloring",
+          "SU-MIMO, UL/DL MU-MIMO support",
+          "Maximal ratio combining (MRC) and beamforming",
+          "20 and 40 MHz channels (802.11n); 20, 40, 80 MHz channels (802.11ac wave 2);",
+          "20, 40, 80, and 160 MHz channels (802.11ax)",
+          "Up to 1024-QAM on all three: 2.4 GHz, 5 GHz, and 6 GHz bands",
+          "Packet aggregation"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "MR28",
+    "url": "https://meraki.cisco.com/products/wi-fi/mr28/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6 (Indoor)",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Entry-level high-peformance Wi-Fi 6 AP designed for",
+          "basic, medium-density deployments with Bluetooth® Low",
+          "Energy included."
+        ],
+        "Interface": "1x Gigabit Ethernet port",
+        "Performance features": [
+          "2x 2:2 MU-MIMO and OFDMA",
+          "Unscheduled Automatic Power Save (U-APSD)"
+        ],
+        "Weight": "9.6 oz (272 g)"
+      },
+      "Usage": [
+        "Entry-level high-peformance Wi-Fi 6 AP designed for",
+        "basic, medium-density deployments with Bluetooth® Low",
+        "Energy included."
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "",
+        "Performance Features": [
+          "2x 2:2 MU-MIMO and OFDMA",
+          "Unscheduled Automatic Power Save (U-APSD)"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "MR36",
+    "url": "https://meraki.cisco.com/products/wi-fi/mr36/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6 (Indoor)",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Next-generation entry-level high-performance Wi-Fi",
+          "6 AP with security-scanning radio and Bluetooth® Low",
+          "Energy included"
+        ],
+        "Interface": "1x Gigabit Ethernet port",
+        "Performance features": [
+          "2x 2:2 MU-MIMO and OFDMA",
+          "160 MHz channels1",
+          "Priority voice, power save",
+          "(802.11e/WMM)",
+          "Hardware-accelerated encryption",
+          "Band steering"
+        ],
+        "Weight": "17.35 oz (0.5 kg)"
+      },
+      "Usage": [
+        "Next-generation entry-level high-performance Wi-Fi",
+        "6 AP with security-scanning radio and Bluetooth® Low",
+        "Energy included"
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "",
+        "Performance Features": [
+          "2x 2:2 MU-MIMO and OFDMA",
+          "160 MHz channels1",
+          "Priority voice, power save",
+          "(802.11e/WMM)",
+          "Hardware-accelerated encryption",
+          "Band steering"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "MR36H",
+    "url": "https://meraki.cisco.com/products/wi-fi/mr36h/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6 (Indoor)",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Next-generation in-room hotel or dormitory deployments",
+          "that service IP-enabled devices using",
+          "high-performance Wi-Fi 6 AP."
+        ],
+        "Interface": [
+          "1x Gigabit Ethernet",
+          "passthrough port",
+          "1x Gigabit Ethernet LAN port with 802.3af PoE",
+          "2x Gigabit Ethernet LAN ports"
+        ],
+        "Performance features": [
+          "2x 2:2 MU-MIMO and OFDMA",
+          "Priority voice, power save",
+          "(802.11e/WMM)",
+          "Hardware-accelerated encryption",
+          "Band steering"
+        ],
+        "Weight": "17.35 oz (0.5 kg)"
+      },
+      "Usage": [
+        "Next-generation in-room hotel or dormitory deployments",
+        "that service IP-enabled devices using",
+        "high-performance Wi-Fi 6 AP."
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "",
+        "Performance Features": [
+          "2x 2:2 MU-MIMO and OFDMA",
+          "Priority voice, power save",
+          "(802.11e/WMM)",
+          "Hardware-accelerated encryption",
+          "Band steering"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "MR44",
+    "url": "https://meraki.cisco.com/products/wi-fi/mr44/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6 (Indoor)",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Next-generation AP with Wi-Fi 6 technology. Ideal for",
+          "medium-density locations with security scanning and",
+          "Bluetooth® Low Energy included."
+        ],
+        "Interface": "1x 2.5 Multigigabit Ethernet port",
+        "Performance features": [
+          "2x 2:2 + 4x 4:4 UL/DL MU-MIMO",
+          "and OFDMA",
+          "160 MHz channels1",
+          "Priority voice, power save",
+          "(802.11e/WMM)",
+          "Hardware-accelerated encryption",
+          "Band steering"
+        ],
+        "Weight": "26.07 oz (0.74 kg)"
+      },
+      "Usage": [
+        "Next-generation AP with Wi-Fi 6 technology. Ideal for",
+        "medium-density locations with security scanning and",
+        "Bluetooth® Low Energy included."
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "",
+        "Performance Features": [
+          "2x 2:2 + 4x 4:4 UL/DL MU-MIMO",
+          "and OFDMA",
+          "160 MHz channels1",
+          "Priority voice, power save",
+          "(802.11e/WMM)",
+          "Hardware-accelerated encryption",
+          "Band steering"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "MR46",
+    "url": "https://meraki.cisco.com/products/wi-fi/mr46/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6E",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Next-generation AP with Wi-Fi 6 technology. Ideal for",
+          "high-density locations or focused wireless coverage with",
+          "security scanning, Bluetooth® Low Energy, and external",
+          "antenna option."
+        ],
+        "Interface": "1x 2.5 Multigigabit Ethernet port",
+        "Performance features": [
+          "4x 4:4 UL/DL MU-MIMO and OFDMA",
+          "160 MHz channels1",
+          "Priority voice, power save (802.11e/WMM)",
+          "Hardware-accelerated encryption",
+          "Band steering",
+          "Removable antennas (MR46E)"
+        ],
+        "Weight": [
+          "28.21 oz (0.8 kg) (MR46)",
+          "29.98 oz (0.85 kg) (MR46E)"
+        ]
+      },
+      "Usage": [
+        "Next-generation AP with Wi-Fi 6 technology. Ideal for",
+        "high-density locations or focused wireless coverage with",
+        "security scanning, Bluetooth® Low Energy, and external",
+        "antenna option."
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "",
+        "Performance Features": [
+          "4x 4:4 UL/DL MU-MIMO and OFDMA",
+          "160 MHz channels1",
+          "Priority voice, power save (802.11e/WMM)",
+          "Hardware-accelerated encryption",
+          "Band steering",
+          "Removable antennas (MR46E)"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "MR46E",
+    "url": "https://meraki.cisco.com/products/wi-fi/mr46e/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6E",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Next-generation AP with Wi-Fi 6 technology. Ideal for",
+          "high-density locations or focused wireless coverage with",
+          "security scanning, Bluetooth® Low Energy, and external",
+          "antenna option."
+        ],
+        "Interface": "1x 2.5 Multigigabit Ethernet port",
+        "Performance features": [
+          "4x 4:4 UL/DL MU-MIMO and OFDMA",
+          "160 MHz channels1",
+          "Priority voice, power save (802.11e/WMM)",
+          "Hardware-accelerated encryption",
+          "Band steering",
+          "Removable antennas (MR46E)"
+        ],
+        "Weight": [
+          "28.21 oz (0.8 kg) (MR46)",
+          "29.98 oz (0.85 kg) (MR46E)"
+        ]
+      },
+      "Usage": [
+        "Next-generation AP with Wi-Fi 6 technology. Ideal for",
+        "high-density locations or focused wireless coverage with",
+        "security scanning, Bluetooth® Low Energy, and external",
+        "antenna option."
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "",
+        "Performance Features": [
+          "4x 4:4 UL/DL MU-MIMO and OFDMA",
+          "160 MHz channels1",
+          "Priority voice, power save (802.11e/WMM)",
+          "Hardware-accelerated encryption",
+          "Band steering",
+          "Removable antennas (MR46E)"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "MR56",
+    "url": "https://meraki.cisco.com/products/wi-fi/mr56/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6E",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Next-generation AP with Wi-Fi 6 technology. Ideal for",
+          "ultra-high-density and performance deployments.",
+          "Security radio and Bluetooth® Low Energy included."
+        ],
+        "Interface": "1x 5 Gbps Multigigabit Ethernet port",
+        "Performance features": [
+          "8x 8:8 UL/DL MU-MIMO and OFDMA",
+          "160 MHz channels1",
+          "Priority voice, power save (802.11e/WMM)",
+          "Hardware-accelerated encryption",
+          "Band steering"
+        ],
+        "Weight": "35.27 oz (1 kg)"
+      },
+      "Usage": [
+        "Next-generation AP with Wi-Fi 6 technology. Ideal for",
+        "ultra-high-density and performance deployments.",
+        "Security radio and Bluetooth® Low Energy included."
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "",
+        "Performance Features": [
+          "8x 8:8 UL/DL MU-MIMO and OFDMA",
+          "160 MHz channels1",
+          "Priority voice, power save (802.11e/WMM)",
+          "Hardware-accelerated encryption",
+          "Band steering"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "MR76",
+    "url": "https://meraki.cisco.com/products/wi-fi/mr76/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6E",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Rugged/outdoor high-performance Wi-Fi 6 wireless for",
+          "outdoor campuses, industrial, point-to-point links, and",
+          "outdoor location services."
+        ],
+        "Interface": [
+          "1× Gigabit Ethernet port",
+          "4x External N-type connectors",
+          "(antennas sold separately)"
+        ],
+        "Physical design": [
+          "Rugged industrial design",
+          "Water and dust sealed (IP67 rated)",
+          "Vibration and shock tested"
+        ],
+        "Dimensions": [
+          "11.81 in x 6.02 in x 2.16 in",
+          "(30.0 cm x 15.3 cm x 5.5 cm)"
+        ]
+      },
+      "Usage": [
+        "Rugged/outdoor high-performance Wi-Fi 6 wireless for",
+        "outdoor campuses, industrial, point-to-point links, and",
+        "outdoor location services."
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "",
+        "Performance Features": ""
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "MR78",
+    "url": "https://meraki.cisco.com/products/wi-fi/mr78/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6E",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Rugged/outdoor entry-level Wi-Fi 6 wireless for medium-",
+          "density, basic outdoor deployments."
+        ],
+        "Interface": "1× Gigabit Ethernet port",
+        "Physical design": [
+          "Rugged industrial design",
+          "Water and dust sealed (IP67 rated)",
+          "Vibration and shock tested"
+        ],
+        "Dimensions": [
+          "9.65 in x 4.53 in x 1.18 in",
+          "(24.5 cm x 11.5 cm x 3.0 cm)"
+        ]
+      },
+      "Usage": [
+        "Rugged/outdoor entry-level Wi-Fi 6 wireless for medium-",
+        "density, basic outdoor deployments."
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "",
+        "Performance Features": ""
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "MR86",
+    "url": "https://meraki.cisco.com/products/wi-fi/mr86/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6E",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Rugged/outdoor highest-performance Wi-Fi 6 with",
+          "multigigabit for tough RF and high-density environments."
+        ],
+        "Interface": [
+          "1x 2.5 Gbps Multigigabit Ethernet port",
+          "4x External N-type connectors",
+          "(antennas sold separately)"
+        ],
+        "Physical design": [
+          "Rugged industrial design",
+          "Water and dust sealed (IP67 rated)",
+          "Vibration and shock tested"
+        ],
+        "Dimensions": [
+          "11.81 in x 6.02 in x 2.16 in",
+          "(30.0 cm x 15.3 cm x 5.5 cm)"
+        ],
+        "Weight": "52.91 oz (1.5 kg)"
+      },
+      "Usage": [
+        "Rugged/outdoor highest-performance Wi-Fi 6 with",
+        "multigigabit for tough RF and high-density environments."
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "",
+        "Performance Features": ""
+      }
+    }
+  },
+  {
+    "family": "MR",
+    "name": "CW9163E",
+    "url": "https://meraki.cisco.com/products/wi-fi/cw9163e/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki cloud-managed wireless series is a line of enterprise-grade\nWLAN access points (APs) that leverage the award-winning Cisco Meraki\ncloud-managed architecture to provide powerful and intuitive centralized\nmanagement, while eliminating the cost and complexity of traditional on-site\nwireless controllers. Meraki wireless APs are designed for challenging enterprise\nenvironments characterized by high-performance hardware, multiple radios, and\nadvanced software features with proven scale and reliability (99.9 cloud SLA) to\nsupport the most demanding use cases.",
+      "Wi-Fi Generation": "Wi-Fi 6E",
+      "Features": [
+        "Self-configuring • Integrated Bluetooth® IoT radio",
+        "IoT ready (ESL integration)",
+        "802.11be MU-MIMO with up to sixteen",
+        "Dedicated radio for security and RF • Intelligent firmware upgrades that",
+        "Role-based administration and",
+        "Advanced security to protect against automatic, scheduled firmware",
+        "Integrated intrusion detection and • Email and text message alerts upon",
+        "Intelligent firmware upgrades that",
+        "AI/ML-powered analytics for root cause",
+        "Advanced application visibility with",
+        "Flexible group policy engine for creating",
+        "Wi-Fi personal network (WPN) on any"
+      ],
+      "Specifications": {
+        "Usage": [
+          "Outdoor high-performance on-prem or cloud-",
+          "managed Wi-Fi 6E access point for small and medium-",
+          "density deployments."
+        ],
+        "Interface": [
+          "1x 2.5 Gbps Multigigabit Ethernet port",
+          "4x External N-type connectors (omni and directional",
+          "antennas sold separately)",
+          "RP-SMA active GPS/GNSS",
+          "antenna connector"
+        ],
+        "Physical design": [
+          "Weatherized outdoor design",
+          "Water and dust sealed (IP67 rated)",
+          "Vibration and shock tested"
+        ],
+        "Dimensions": [
+          "9.64 in x 9.64 in x 2.5 in",
+          "(24.5 cm x 24.5 cm x 6.35 cm)"
+        ],
+        "Weight": "52.8 oz (1.50 kg)"
+      },
+      "Usage": [
+        "Outdoor high-performance on-prem or cloud-",
+        "managed Wi-Fi 6E access point for small and medium-",
+        "density deployments."
+      ],
+      "Performance": {
+        "Radio Specification": "",
+        "Aggregate Frame Rate": "",
+        "Spatial Streams": "",
+        "Performance Features": ""
+      }
+    }
+  }
+]

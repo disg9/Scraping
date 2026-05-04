@@ -1,0 +1,21 @@
+CISCO Z4C / vMX / SFP ACCESSORIES SCRAPE REPORT
+==================================================
+Total products/entries: 3
+
+Entries extracted:
+  ✓ Z4C                                 | family: Z            | specs: 18 | features: 19
+  ✓ vMX                                 | family: MX           | specs: 10 | features: 15
+  ✓ SFP and Stacking Accessories        | family: Accessories  | specs: 26 | features: 11
+
+Source documents:
+  - Z4C_Datasheet.pdf (9 pages)
+  - vMX_Comparison_Datasheet.pdf (2 pages)
+  - Small-Form_Factor_Pluggable_(SFP)_and_Stacking_Accessories.pdf (15 pages)
+
+Notes:
+  - All data hardcoded directly from PDFs (no table parsing needed)
+  - vMX covers all 3 sizes (S/M/L) in one entry with per-size performance fields
+  - SFP entry covers all transceivers, stacking cables, and uplink modules
+  - 'images' field empty for all entries (PDFs have no extractable image URLs)
+  - Z4C has a lifetime hardware warranty
+  - vMX requires licensing (Enterprise or Advanced Security, 1/3/5-year)

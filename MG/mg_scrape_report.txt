@@ -1,0 +1,14 @@
+CISCO MG FAMILY SCRAPE REPORT
+========================================
+
+Total products extracted: 8
+
+✓ MG21
+✓ MG21E
+✓ MG41
+✓ MG41E
+✓ MG51
+✓ MG51E
+✓ MG52
+✓ MG52E
+

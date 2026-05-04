@@ -1,0 +1,242 @@
+[
+  {
+    "family": "MG",
+    "name": "MG21",
+    "url": "https://meraki.cisco.com/products/cellular-gateways/mg21",
+    "images": [],
+    "content": {
+      "Overview": "Cisco MG fixed wireless access devices convert cellular signals into wired WAN Ethernet connectivity and provide always-on fixed wireless access for branches, campuses, and remote sites. Fully cloud-managed through the Meraki Dashboard.",
+      "Features": [
+        "Zero-touch provisioning",
+        "Cloud-managed through Meraki Dashboard",
+        "Primary or backup WAN connectivity",
+        "4G LTE and 5G support",
+        "Dual SIM support on selected models",
+        "PoE powered options",
+        "Remote diagnostics and alerts",
+        "Indoor and outdoor deployment options"
+      ],
+      "Specifications": {
+        "Cellular Technology": "4G LTE Advanced",
+        "Ports": "1 x 1 GbE",
+        "Weight": "489 g",
+        "Power": "DC or PoE",
+        "Management": "Meraki Dashboard"
+      },
+      "Usage": "Ideal for branch failover, pop-up sites, emergency services, primary WAN, and remote offices.",
+      "Performance": {
+        "Throughput": "300 Mbps / 50 Mbps"
+      }
+    }
+  },
+  {
+    "family": "MG",
+    "name": "MG21E",
+    "url": "https://meraki.cisco.com/products/cellular-gateways/mg21e",
+    "images": [],
+    "content": {
+      "Overview": "Cisco MG fixed wireless access devices convert cellular signals into wired WAN Ethernet connectivity and provide always-on fixed wireless access for branches, campuses, and remote sites. Fully cloud-managed through the Meraki Dashboard.",
+      "Features": [
+        "Zero-touch provisioning",
+        "Cloud-managed through Meraki Dashboard",
+        "Primary or backup WAN connectivity",
+        "4G LTE and 5G support",
+        "Dual SIM support on selected models",
+        "PoE powered options",
+        "Remote diagnostics and alerts",
+        "Indoor and outdoor deployment options"
+      ],
+      "Specifications": {
+        "Cellular Technology": "4G LTE Advanced",
+        "Ports": "1 x 1 GbE",
+        "Weight": "497 g",
+        "Power": "DC or PoE",
+        "Management": "Meraki Dashboard"
+      },
+      "Usage": "Ideal for branch failover, pop-up sites, emergency services, primary WAN, and remote offices.",
+      "Performance": {
+        "Throughput": "300 Mbps / 50 Mbps"
+      }
+    }
+  },
+  {
+    "family": "MG",
+    "name": "MG41",
+    "url": "https://meraki.cisco.com/products/cellular-gateways/mg41",
+    "images": [],
+    "content": {
+      "Overview": "Cisco MG fixed wireless access devices convert cellular signals into wired WAN Ethernet connectivity and provide always-on fixed wireless access for branches, campuses, and remote sites. Fully cloud-managed through the Meraki Dashboard.",
+      "Features": [
+        "Zero-touch provisioning",
+        "Cloud-managed through Meraki Dashboard",
+        "Primary or backup WAN connectivity",
+        "4G LTE and 5G support",
+        "Dual SIM support on selected models",
+        "PoE powered options",
+        "Remote diagnostics and alerts",
+        "Indoor and outdoor deployment options"
+      ],
+      "Specifications": {
+        "Cellular Technology": "4G LTE Advanced Pro",
+        "Ports": "2 x 1 GbE",
+        "Weight": "670 g",
+        "Power": "DC or PoE",
+        "Management": "Meraki Dashboard"
+      },
+      "Usage": "Ideal for branch failover, pop-up sites, emergency services, primary WAN, and remote offices.",
+      "Performance": {
+        "Throughput": "1.2 Gbps / 150 Mbps"
+      }
+    }
+  },
+  {
+    "family": "MG",
+    "name": "MG41E",
+    "url": "https://meraki.cisco.com/products/cellular-gateways/mg41e",
+    "images": [],
+    "content": {
+      "Overview": "Cisco MG fixed wireless access devices convert cellular signals into wired WAN Ethernet connectivity and provide always-on fixed wireless access for branches, campuses, and remote sites. Fully cloud-managed through the Meraki Dashboard.",
+      "Features": [
+        "Zero-touch provisioning",
+        "Cloud-managed through Meraki Dashboard",
+        "Primary or backup WAN connectivity",
+        "4G LTE and 5G support",
+        "Dual SIM support on selected models",
+        "PoE powered options",
+        "Remote diagnostics and alerts",
+        "Indoor and outdoor deployment options"
+      ],
+      "Specifications": {
+        "Cellular Technology": "4G LTE Advanced Pro",
+        "Ports": "2 x 1 GbE",
+        "Weight": "670 g",
+        "Power": "DC or PoE",
+        "Management": "Meraki Dashboard"
+      },
+      "Usage": "Ideal for branch failover, pop-up sites, emergency services, primary WAN, and remote offices.",
+      "Performance": {
+        "Throughput": "1.2 Gbps / 150 Mbps"
+      }
+    }
+  },
+  {
+    "family": "MG",
+    "name": "MG51",
+    "url": "https://meraki.cisco.com/products/cellular-gateways/mg51",
+    "images": [],
+    "content": {
+      "Overview": "Cisco MG fixed wireless access devices convert cellular signals into wired WAN Ethernet connectivity and provide always-on fixed wireless access for branches, campuses, and remote sites. Fully cloud-managed through the Meraki Dashboard.",
+      "Features": [
+        "Zero-touch provisioning",
+        "Cloud-managed through Meraki Dashboard",
+        "Primary or backup WAN connectivity",
+        "4G LTE and 5G support",
+        "Dual SIM support on selected models",
+        "PoE powered options",
+        "Remote diagnostics and alerts",
+        "Indoor and outdoor deployment options"
+      ],
+      "Specifications": {
+        "Cellular Technology": "5G NSA",
+        "Ports": "2 x 2.5 GbE",
+        "Weight": "560 g",
+        "Power": "DC or PoE",
+        "Management": "Meraki Dashboard"
+      },
+      "Usage": "Ideal for branch failover, pop-up sites, emergency services, primary WAN, and remote offices.",
+      "Performance": {
+        "Throughput": "2 Gbps / 300 Mbps"
+      }
+    }
+  },
+  {
+    "family": "MG",
+    "name": "MG51E",
+    "url": "https://meraki.cisco.com/products/cellular-gateways/mg51e",
+    "images": [],
+    "content": {
+      "Overview": "Cisco MG fixed wireless access devices convert cellular signals into wired WAN Ethernet connectivity and provide always-on fixed wireless access for branches, campuses, and remote sites. Fully cloud-managed through the Meraki Dashboard.",
+      "Features": [
+        "Zero-touch provisioning",
+        "Cloud-managed through Meraki Dashboard",
+        "Primary or backup WAN connectivity",
+        "4G LTE and 5G support",
+        "Dual SIM support on selected models",
+        "PoE powered options",
+        "Remote diagnostics and alerts",
+        "Indoor and outdoor deployment options"
+      ],
+      "Specifications": {
+        "Cellular Technology": "5G NSA",
+        "Ports": "2 x 2.5 GbE",
+        "Weight": "717 g",
+        "Power": "DC or PoE",
+        "Management": "Meraki Dashboard"
+      },
+      "Usage": "Ideal for branch failover, pop-up sites, emergency services, primary WAN, and remote offices.",
+      "Performance": {
+        "Throughput": "2 Gbps / 300 Mbps"
+      }
+    }
+  },
+  {
+    "family": "MG",
+    "name": "MG52",
+    "url": "https://meraki.cisco.com/products/cellular-gateways/mg52",
+    "images": [],
+    "content": {
+      "Overview": "Cisco MG fixed wireless access devices convert cellular signals into wired WAN Ethernet connectivity and provide always-on fixed wireless access for branches, campuses, and remote sites. Fully cloud-managed through the Meraki Dashboard.",
+      "Features": [
+        "Zero-touch provisioning",
+        "Cloud-managed through Meraki Dashboard",
+        "Primary or backup WAN connectivity",
+        "4G LTE and 5G support",
+        "Dual SIM support on selected models",
+        "PoE powered options",
+        "Remote diagnostics and alerts",
+        "Indoor and outdoor deployment options"
+      ],
+      "Specifications": {
+        "Cellular Technology": "5G SA",
+        "Ports": "2 x 2.5 GbE",
+        "Weight": "560 g",
+        "Power": "DC or PoE",
+        "Management": "Meraki Dashboard"
+      },
+      "Usage": "Ideal for branch failover, pop-up sites, emergency services, primary WAN, and remote offices.",
+      "Performance": {
+        "Throughput": "2 Gbps / 300 Mbps"
+      }
+    }
+  },
+  {
+    "family": "MG",
+    "name": "MG52E",
+    "url": "https://meraki.cisco.com/products/cellular-gateways/mg52e",
+    "images": [],
+    "content": {
+      "Overview": "Cisco MG fixed wireless access devices convert cellular signals into wired WAN Ethernet connectivity and provide always-on fixed wireless access for branches, campuses, and remote sites. Fully cloud-managed through the Meraki Dashboard.",
+      "Features": [
+        "Zero-touch provisioning",
+        "Cloud-managed through Meraki Dashboard",
+        "Primary or backup WAN connectivity",
+        "4G LTE and 5G support",
+        "Dual SIM support on selected models",
+        "PoE powered options",
+        "Remote diagnostics and alerts",
+        "Indoor and outdoor deployment options"
+      ],
+      "Specifications": {
+        "Cellular Technology": "5G SA",
+        "Ports": "2 x 2.5 GbE",
+        "Weight": "717 g",
+        "Power": "DC or PoE",
+        "Management": "Meraki Dashboard"
+      },
+      "Usage": "Ideal for branch failover, pop-up sites, emergency services, primary WAN, and remote offices.",
+      "Performance": {
+        "Throughput": "2 Gbps / 300 Mbps"
+      }
+    }
+  }
+]

@@ -1,0 +1,25 @@
+CISCO MX FAMILY SCRAPE REPORT
+========================================
+
+Total products extracted: 18
+
+Products found in spec tables:
+  ✓ 8111-G2-MX           | Specs: 12  | Performance rows: 5
+  ✓ 8121-G2-MX           | Specs: 12  | Performance rows: 5
+  ✓ 8455-G2-MX           | Specs: 10  | Performance rows: 5
+  ✓ MX105                | Specs: 10  | Performance rows: 5
+  ✓ MX250                | Specs: 10  | Performance rows: 5
+  ✓ MX450                | Specs: 10  | Performance rows: 5
+  ✓ MX67                 | Specs:  9  | Performance rows: 5
+  ✓ MX67C                | Specs:  9  | Performance rows: 5
+  ✓ MX67W                | Specs:  9  | Performance rows: 5
+  ✓ MX68                 | Specs: 10  | Performance rows: 4
+  ✓ MX68CW               | Specs: 10  | Performance rows: 4
+  ✓ MX68W                | Specs: 10  | Performance rows: 4
+  ✓ MX75                 | Specs: 10  | Performance rows: 4
+  ✓ MX85                 | Specs: 10  | Performance rows: 4
+  ✓ MX95                 | Specs: 10  | Performance rows: 4
+  ✓ vMX – Large          | Specs:  7  | Performance rows: 0
+  ✓ vMX – Medium         | Specs:  7  | Performance rows: 0
+  ✓ vMX – Small          | Specs:  7  | Performance rows: 1
+

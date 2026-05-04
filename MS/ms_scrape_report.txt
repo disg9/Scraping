@@ -1,0 +1,24 @@
+CISCO MS FAMILY SCRAPE REPORT
+========================================
+
+Products extracted: 17
+
+Products:
+  ✓ Catalyst 9200L-M (Data only, Gigabit)
+  ✓ Catalyst 9200L-M (PoE, Gigabit)
+  ✓ Catalyst 9200L-M (PoE, Multigigabit)
+  ✓ Catalyst 9300-M (Gigabit)
+  ✓ Catalyst 9300-M (fiber)
+  ✓ Catalyst 9300-M (mGig)
+  ✓ Catalyst 9300L-M (Gigabit)
+  ✓ Catalyst 9300L-M (mGig)
+  ✓ Catalyst 9300X-M (fiber)
+  ✓ Catalyst 9300X-M (mGig)
+  ✓ MS130
+  ✓ MS130 compact
+  ✓ MS130R
+  ✓ MS150
+  ✓ MS210
+  ✓ MS225
+  ✓ MS450
+

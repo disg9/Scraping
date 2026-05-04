@@ -1,0 +1,757 @@
+[
+  {
+    "family": "MS",
+    "name": "Catalyst 9200L-M (Data only, Gigabit)",
+    "url": "https://meraki.cisco.com/products/switches/catalyst-9200l-m-data-only,-gigabit",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "4x 10 GbE uplinks (-4X SKUs) 4x 1 GbE uplinks (-4G SKUs)",
+        "Power configuration": "Removable PSU, Optional redundant power supply"
+      },
+      "Performance": {
+        "Usage": "Entry-level enterprise environments",
+        "Routing capabilities": "Static + dynamic, DHCP server + relay",
+        "Models": "C9200L-24T-4X-M C9200L-48T-4X-M C9200L-24T-4G-M C9200L-48T-4G-M"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "C9200L-24T-4X-M"
+        ],
+        "license_skus": [
+          "LIC-C9200L-24E-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "Catalyst 9200L-M (PoE, Gigabit)",
+    "url": "https://meraki.cisco.com/products/switches/catalyst-9200l-m-poe,-gigabit",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "4x 10 GbE uplinks (-4X SKUs) 4x 1 GbE uplinks (-4G SKUs)",
+        "Power configuration": "Removable PSU, Optional redundant power supply"
+      },
+      "Performance": {
+        "Usage": "Entry-level enterprise environments",
+        "Routing capabilities": "Static + dynamic, DHCP server + relay",
+        "Models": "C9200L-24P-4X-M C9200L-24P-4G-M C9200L-48PL-4X-M C9200L-48P-4X-M C9200L-48P-4G-M C9200L-48PL-4G-M"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "C9200L-24T-4X-M"
+        ],
+        "license_skus": [
+          "LIC-C9200L-24E-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "Catalyst 9200L-M (PoE, Multigigabit)",
+    "url": "https://meraki.cisco.com/products/switches/catalyst-9200l-m-poe,-multigigabit",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "4x 10 GbE uplinks (-4X SKUs) 2x 25 GbE uplinks (-2Y SKUs)",
+        "Power configuration": "Removable PSU, Optional redundant power supply"
+      },
+      "Performance": {
+        "Usage": "Entry-level enterprise environments",
+        "Routing capabilities": "Static + dynamic, DHCP server + relay",
+        "Models": "C9200L-24PXG-4X-M C9200L-24PXG-2Y-M C9200L-48PXG-4X-M C9200L-48PXG-2Y-M"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "C9200L-24T-4X-M"
+        ],
+        "license_skus": [
+          "LIC-C9200L-24E-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "Catalyst 9300-M (Gigabit)",
+    "url": "https://meraki.cisco.com/products/switches/catalyst-9300-m-gigabit",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "4x 1G/10G SFP/SFP+ 8x 1/10G SFP/SFP+ 2x 40G QSFP 2x 1G/10G/25G SFP/SFP+",
+        "Power configuration": "Removable PSU Modular 80 PLUS® Platinum PSU"
+      },
+      "Performance": {
+        "Usage": "High-performance branch and campus, secure Wi-Fi 7 deployments",
+        "Routing capabilities": "Static + dynamic DHCP Server + relay",
+        "Models": "C9300-24T-M C9300-24P-M C9300-24U-M C9300-48T-M C9300-48P-M C9300-48U-M"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "C9200L-24T-4X-M"
+        ],
+        "license_skus": [
+          "LIC-C9200L-24E-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "Catalyst 9300-M (fiber)",
+    "url": "https://meraki.cisco.com/products/switches/catalyst-9300-m-fiber",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "4x 1G/10G SFP/SFP+ 8x 1/10G SFP/SFP+ 2x 40G QSFP 2x 1G/10G/25G SFP/ SFP+",
+        "Power configuration": "Removable PSU Modular 80 PLUS® Platinum PSU"
+      },
+      "Performance": {
+        "Usage": "Fiber aggregation for campus access and branch",
+        "Routing capabilities": "Static + dynamic DHCP server + relay",
+        "Models": "C9300-24S-M C9300-48S-M"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "C9200L-24T-4X-M"
+        ],
+        "license_skus": [
+          "LIC-C9200L-24E-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "Catalyst 9300-M (mGig)",
+    "url": "https://meraki.cisco.com/products/switches/catalyst-9300-m-mgig",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "4x 1G/10G SFP/SFP+ 8x 1G/10G SFP/SFP+ 2x 40G QSFP 2x 1G/10G/25G SFP28",
+        "Power configuration": "Removable PSU Modular 80 PLUS® Platinum PSU"
+      },
+      "Performance": {
+        "Usage": "Secure Wi-Fi 7 deployments",
+        "Routing capabilities": "Static + dynamic DHCP Server + relay",
+        "Models": "C9300-24UX-M C9300-48UXM-M C9300-48UN-M"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "C9200L-24T-4X-M"
+        ],
+        "license_skus": [
+          "LIC-C9200L-24E-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "Catalyst 9300L-M (Gigabit)",
+    "url": "https://meraki.cisco.com/products/switches/catalyst-9300l-m-gigabit",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "4x 1G/10G SFP/SFP+",
+        "Power configuration": "Removable PSU Modular 80 PLUS® Platinum PSU"
+      },
+      "Performance": {
+        "Usage": "High-performance branch and campus, secure Wi-Fi 7 deployments",
+        "Routing capabilities": "Static + dynamic DHCP Server + relay",
+        "Models": "C9300L-24T-4X-M C9300L-48T-4X-M C9300L-24P-4X-M C9300L-48P-4X-M C9300L-48PF-4X-M"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "C9200L-24T-4X-M"
+        ],
+        "license_skus": [
+          "LIC-C9200L-24E-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "Catalyst 9300L-M (mGig)",
+    "url": "https://meraki.cisco.com/products/switches/catalyst-9300l-m-mgig",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "4x 1G/10G SFP/SFP+",
+        "Power configuration": "Removable PSU Modular 80 PLUS® Platinum PSU"
+      },
+      "Performance": {
+        "Usage": "Secure Wi-Fi 6/6E deployments",
+        "Routing capabilities": "Static + dynamic DHCP server + relay",
+        "Models": "C9300L-24UXG-4X-M C9300L-48UXG-4X-M"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "C9200L-24T-4X-M"
+        ],
+        "license_skus": [
+          "LIC-C9200L-24E-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "Catalyst 9300X-M (fiber)",
+    "url": "https://meraki.cisco.com/products/switches/catalyst-9300x-m-fiber",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "2x 40G/100G QSFP28 8x 1/10/25G SPF28",
+        "Power configuration": "Removable PSU Modular 80 PLUS® Platinum PSU"
+      },
+      "Performance": {
+        "Usage": "Fiber aggregation for campus access and branch",
+        "Routing capabilities": "Static + dynamic DHCP server + relay",
+        "Models": "C9300X-12Y-M C9300X-24Y-M"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "C9200L-24T-4X-M"
+        ],
+        "license_skus": [
+          "LIC-C9200L-24E-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "Catalyst 9300X-M (mGig)",
+    "url": "https://meraki.cisco.com/products/switches/catalyst-9300x-m-mgig",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "2x 40G/100G QSFP28 8x 1/10/25G SFP28",
+        "Power configuration": "Removable PSU Modular 80 PLUS® Platinum PSU"
+      },
+      "Performance": {
+        "Usage": "Secure Wi-Fi 6/6E deployments 90 W UPOE options for smart building deployments",
+        "Routing capabilities": "Static + dynamic DHCP server + relay",
+        "Models": "C9300X-48TX-M C9300X-24HX-M C9300X-48HX-M C9300X-48HXN-M"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "C9200L-24T-4X-M"
+        ],
+        "license_skus": [
+          "LIC-C9200L-24E-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "MS130",
+    "url": "https://meraki.cisco.com/products/switches/ms130",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "4x 1 GbE SFP 4x 10 GbE SFP+ (in select models) Fixed",
+        "Power configuration": "Internal"
+      },
+      "Performance": {
+        "Usage": "Branch and campus",
+        "Routing capabilities": "DHCP relay",
+        "Models": "MS130-24-HW MS130-24P-HW MS130-24X-HW (mGig, 10 GbE SFP + option)1 MS130-48-HW MS130-48P-HW MS130-48X-HW (mGig, 10 GbE SFP + option)1"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses."
+    }
+  },
+  {
+    "family": "MS",
+    "name": "MS130 compact",
+    "url": "https://meraki.cisco.com/products/switches/ms130-compact",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "2x 1 GbE SFP 2x 10 GbE SFP+ (in select models) Fixed",
+        "Power configuration": "Internal (MS130-8P-I only) External"
+      },
+      "Performance": {
+        "Usage": "Compact",
+        "Routing capabilities": "DHCP relay",
+        "Models": "MS130-8-HW MS130-8P-HW MS130-8P-I-HW MS130-8X-HW (mGig, 10 GbE SFP + option)1 MS130-12X-HW (mGig, 10 GbE SFP + option)1"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses."
+    }
+  },
+  {
+    "family": "MS",
+    "name": "MS130R",
+    "url": "https://meraki.cisco.com/products/switches/ms130r",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "2x 1 GbE SFP",
+        "Power configuration": "External"
+      },
+      "Performance": {
+        "Usage": "Ruggedized (hot/cold/tight environments)",
+        "Routing capabilities": "DHCP relay",
+        "Models": "MS130R-8P-HW"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses."
+    }
+  },
+  {
+    "family": "MS",
+    "name": "MS150",
+    "url": "https://meraki.cisco.com/products/switches/ms150",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "4x 1 GbE SFP 4x 10 GbE SFP+ (in select models) Fixed",
+        "Power configuration": "Internal"
+      },
+      "Performance": {
+        "Usage": "Branch and campus Multigigabit Secure Wi-Fi 7 deployments",
+        "Routing capabilities": "DHCP relay Static Routing",
+        "Models": "MS150-24T-4G MS150-24P-4G MS150-48T-4G MS150-48LP-4G MS150-48FP-4G MS150-24T-4X MS150-24P-4X MS150-48T-4X MS150-48LP-4X MS150-48FP-4X MS150-24MP-4X (UPOE + mGig + 10G SFP+) MS150-48MP-4X (UPOE + mGig + 10G SFP+)"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "MS150-24T-4G"
+        ],
+        "license_skus": [
+          "LIC-MS150-24-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "MS210",
+    "url": "https://meraki.cisco.com/products/switches/ms210",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "4x 1 GbE SFP Fixed",
+        "Power configuration": "Internal Optional RPS"
+      },
+      "Performance": {
+        "Usage": "Branch and campus",
+        "Routing capabilities": "Static only DHCP relay"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "MS210-24-HW"
+        ],
+        "license_skus": [
+          "LIC-MS210-24-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "MS225",
+    "url": "https://meraki.cisco.com/products/switches/ms225",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "4x 10 GbE SFP+ Fixed",
+        "Power configuration": "Internal Optional RPS"
+      },
+      "Performance": {
+        "Usage": "Branch and campus",
+        "Routing capabilities": "Static only DHCP relay"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "MS225-24-HW"
+        ],
+        "license_skus": [
+          "LIC-MS225-24-xY"
+        ]
+      }
+    }
+  },
+  {
+    "family": "MS",
+    "name": "MS450",
+    "url": "https://meraki.cisco.com/products/switches/ms450",
+    "images": [],
+    "content": {
+      "Overview": "Cisco offers a broad range of cloud-managed switches designed to be easy to manage without compromising the power and flexibility traditionally found in enterprise-class switches. All models are managed through the Meraki Dashboard — an elegant, intuitive cloud interface that frees administrators to spend less time on configuration and more time on business needs. The portfolio spans access and aggregation switches from basic Layer 2 to high-performance Layer 3, covering MS130/MS150 (cost-effective access), MS210/MS225 (stackable access), Catalyst 9200L-M/9300-M (advanced campus), and MS450 (40G fiber aggregation).",
+      "Features": [
+        "Wide range of models for campus, branch, and rugged environments — basic Layer 2 to high-performance Layer 3",
+        "Up to 10 GbE access ports and 100 GbE uplinks for scalable deployments",
+        "True zero-touch configuration that scales with organizational needs",
+        "Integrated troubleshooting, logging, and alerting to lower operational costs",
+        "Energy-efficient, low-noise design with fanless options",
+        "Cloud management for reduced cost, overhead, and faster issue resolution",
+        "Advanced security with IEEE 802.1x, MAC-based RADIUS authentication, and multiple admin roles",
+        "QoS to prioritize critical traffic like voice and video",
+        "Link Aggregation (LACP) and Rapid Spanning Tree Protocol (RSTP) for high availability",
+        "Voice VLAN, DHCP snooping, and IGMP snooping to optimize and secure network traffic",
+        "StackPower, advanced physical stacking, multigigabit, and UPOE+ options on select models",
+        "Virtual stacking to manage thousands of ports from a single dashboard",
+        "Layer 7 fingerprinting — identify hundreds of applications per client",
+        "Rogue DHCP server detection across the entire network",
+        "Remote cable testing and packet capture for rapid troubleshooting",
+        "Adaptive Policy Segmentation on select models",
+        "Limited lifetime hardware warranty with next-day advance replacement (Meraki MS models)"
+      ],
+      "Specifications": {
+        "Uplinks": "2x 100 GbE QSFP28"
+      },
+      "Performance": {
+        "Usage": "40G fiber aggregation",
+        "Stacking capabilities": "2x dedicated stack ports for up to 400G + virtual",
+        "Models": "MS450-12-HW"
+      },
+      "Usage": "Deployed in branch offices, campus environments, retail stores, hospitals, and industrial locations. The MS130/MS130R series suits small/compact and rugged deployments. The MS150 adds multigigabit for Wi-Fi 7 backhaul. MS210/MS225 provide stackable campus access. Catalyst 9200L-M and 9300-M/9300L-M/9300X-M deliver advanced enterprise switching. MS450 provides 40G fiber aggregation for large campuses.",
+      "Licensing": {
+        "hardware_models": [
+          "MS450-12-HW"
+        ],
+        "license_skus": [
+          "LIC-MS450-12-xY"
+        ]
+      }
+    }
+  }
+]

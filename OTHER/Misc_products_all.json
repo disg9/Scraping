@@ -1,0 +1,265 @@
+[
+  {
+    "family": "MX",
+    "name": "C8455-G2-MX",
+    "url": "https://meraki.cisco.com/products/security-sd-wan/c8455-g2-mx/",
+    "images": [],
+    "content": {
+      "Overview": "The Meraki C8455-G2-MX a Cisco Secure Router that provides Security and SD-WAN, firewall services for large campus environments, and VPN concentration\nfor large VPN networks. Network administrators can deploy it easily and quickly using the Meraki dashboard, with minimal pre-configuration required in most\nlocations.\nThe C8455-G2-MX includes 2x 25G SFP28 WAN Interfaces, 2x 10G SFP+ LANInterfaces, and 8x SFP 1GbEdedicated LAN interfaces.TheC8455-G2-MXis\nready for deployment in a variety of enterprise environments.C8455-G2-MXappliances provides the following features:",
+      "Features": [
+        "Security and SD-WAN firewall for large campus environments",
+        "VPN concentration for large VPN networks",
+        "Cloud-managed via Meraki dashboard with minimal pre-configuration",
+        "2x 25G SFP28 WAN, 2x 10G SFP+ LAN, 8x 1G SFP LAN interfaces"
+      ],
+      "Specifications": {
+        "Maximum NGFW Throughput": "20 Gbps",
+        "Maximum Site-to-Site VPN Throughput": "10 Gbps",
+        "Advanced Security Throughput": "8 Gbps",
+        "Recommended Device Count": "15,000",
+        "Maximum Recommended Tunnels": "3,500",
+        "Recommended Use Case": "Large Campus & VPN Concentrator",
+        "WAN Interfaces": "2x SFP28 / 25 Gigabit Ethernet",
+        "LAN Interfaces": "2x SFP+ 10G, 8x SFP 1G",
+        "Management Port": "1x RJ45 Console, 1x RJ45 Management",
+        "Mount Type": "Rack mount (19\" included)",
+        "Weight": "12.5 lbs",
+        "Power Supply": "2 x 250WAC are included by default",
+        "Operating Temperature": "(0° to 40°C)",
+        "Humidity": "10 to 85% non-condensing",
+        "Compatible SFP Modules": [
+          "SFP28/",
+          "SFP-25G-SR-S",
+          "SFP-10/25G-CSR-S",
+          "SFP-10/25G-LR-S",
+          "MA-SFP-10GB-SR",
+          "MA-SFP-10GB-LR",
+          "MA-SFP-10GB-LRM",
+          "MA-SFP-10GB-ER",
+          "MA-SFP-1GB-TX",
+          "MA-SFP-1GB-LX10",
+          "SFP-H25G-CU1M/3M/5M",
+          "SFP-25G-AOC1M/3M/5M",
+          "MA-CBL-TA-1M",
+          "MA-CBL-TA-3M"
+        ]
+      },
+      "Usage": "Large campus environments and VPN concentration",
+      "Performance": {
+        "Maximum NGFW Throughput": "20 Gbps",
+        "Maximum Site-to-Site VPN Throughput": "10 Gbps",
+        "Advanced Security Throughput": "8 Gbps",
+        "Recommended Device Count": "15,000",
+        "Maximum Recommended Tunnels": "3,500"
+      },
+      "Accessories": [
+        {
+          "sku": "MA-PWR-CORD-US",
+          "description": "1x AC powercable, U.S. plug"
+        },
+        {
+          "sku": "MA-PWR-CORD-EU",
+          "description": "1x AC powercable, UKplug"
+        },
+        {
+          "sku": "MA-PWR-CORD-UK",
+          "description": "1x AC powercable, AU plug"
+        },
+        {
+          "sku": "MA-PWR-CORD-AU",
+          "description": "1X AC powercable, BR plug"
+        },
+        {
+          "sku": "MA-PWR-CORD-BR",
+          "description": "Compatible Fiber Transceiver Modules"
+        }
+      ],
+      "Warranty": "2 Year"
+    }
+  },
+  {
+    "family": "Campus Gateway",
+    "name": "Campus-Gateway",
+    "url": "https://meraki.cisco.com/products/campus-gateway/",
+    "images": [],
+    "content": {
+      "Overview": "The Cisco Campus Gateway is the intelligent, easy-to-deploy wireless cloud solution for large campus scale,\nseamless roaming, and flexible functionality for the modern enterprise.",
+      "Features": {
+        "Enterprise-class cloud": "Deliver agility and flexibility with a cloud-managed architecture without sacrificing functionality. Monitor and manage your wireless network from anywhere.",
+        "Performance and scale": "Campus Gateway supports your network growth with the ability to scale to 5,000 access points and 50,000 clients and 100Gbps throughput.",
+        "Intelligent infrastructure": "Easy-to-deploy solution built on a Cisco unified hardware platform means less disruption to your infrastructure design for a smooth transition to cloud-managed wireless.",
+        "Support macro and micro segmentation": "Adaptive Policy with Security Group Tags simplifies network segmentation and boosts security without sacrificing agility or flexibility.",
+        "Seamless roaming at scale": "Keep your users and clients connected with seamless scale across large campus wireless networks."
+      },
+      "How It Works": {
+        "Onboarding simplicity": "Simple and rapid onboarding with the cloud dashboard allows you to set up Day 0.",
+        "Cloud native, centralized": "Campus Gateway is a cloud-native product, built to centralize wireless LAN architecture, offering large campuses choice in their architecture strategy.",
+        "High availability": "For the uptime and peace of mind you need, Campus Gateway supports Active- Active clustering.",
+        "Portfolio flexibility and support": "Get the full flexibility and benefit of cloud with supported cloud managed Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 access points."
+      },
+      "Specifications": {
+        "SKU": "CW9800H1-MCG",
+        "Throughput": "Up to 100 Gbps (200 Gbps in clustered)",
+        "Scale": "5,000 access points and 50,000 clients",
+        "Data Ports": "4 x 25 Gbps SFP28 8 x 1/10 Gbps SFP+",
+        "Power": "Dual 750W AC power supplies (Option for upgradeable 1100W DC)",
+        "Redundancy Ports": "1 x 1 Gbps RJ-45 1 x 1/10 Gbps SFP+",
+        "Service Ports": "1 x RJ-45",
+        "Min. Release": "Campus Gateway Release MR31.2 Access Points MR31.2",
+        "Ports": {
+          "1x RJ-45 console port 1x 5-pin Micro-B USB console port": "Console ports is disabled for Campus Gateway Deployment",
+          "2x USB 3.0 ports": "USB 3.0 ports are disabled for Campus Gateway Deployment",
+          "1x RJ-45 service port": "Service port for accessing the local status page of the device",
+          "1x RJ-45 redundancy port": "Redundancy port used for high availability stateful fail-over of cluster members",
+          "1x SFP+ 10 Gbps Ethernet redundancy port": "Redundancy port used clustering; works with Cisco support SFPs for redundancy port",
+          "Fixed uplink ports (option a) Fixed uplink ports (option b)": "4x 25 Gbps SFP28 8x 1/10 Gbps SFP+"
+        },
+        "Form Factor": "1RU rack-mount",
+        "Management": "Cloud-managed via Meraki dashboard"
+      },
+      "Usage": "Large campus wireless networks requiring seamless roaming at scale",
+      "Supported APs": {
+        "Wi-Fi 6": [
+          "MR36",
+          "MR36H",
+          "MR44",
+          "MR46",
+          "MR46E",
+          "MR56",
+          "MR76",
+          "MR78",
+          "MR86"
+        ],
+        "Wi-Fi 6E": [
+          "MR57",
+          "CW9162",
+          "CW9163",
+          "CW9164",
+          "CW9166"
+        ],
+        "Wi-Fi 7": [
+          "All models"
+        ]
+      },
+      "Performance": {
+        "Throughput": "Up to 100 Gbps (200 Gbps in clustered)",
+        "Scale": "5,000 access points and 50,000 clients"
+      },
+      "Licensing": {
+        "Device License": "Not required for Campus Gateway itself",
+        "AP License": "Enterprise or Advanced tier cloud license required per AP",
+        "Wi-Fi 7 APs": "Cisco Networking Subscription (Essentials or Advantage tier)"
+      },
+      "Warranty": {
+        "Product number": "Description",
+        "CW9800H1-MCG": "Campus Gateway",
+        "Devices covered": "Applies to Campus Gateway.",
+        "Warranty duration": "As long as the original customer owns the product.",
+        "End-of-Life Policy": "In the event of discontinuance of product manufacture, Cisco warranty support is limited to 5 years from the announcement of discontinuance.",
+        "Hardware replacement": "Cisco or its service center will use commercially reasonable efforts to ship a replacement for NBD delivery, where available. Otherwise, a replacement will be shipped within 10 working days after receipt of the Return Materials Authorization (RMA) request. Actual delivery times might vary depending on customer location.",
+        "Effective date": "Hardware warranty commences from the date of shipment to customer (and in case of resale by a Cisco reseller, not more than 90 days after original shipment by Cisco)."
+      }
+    }
+  },
+  {
+    "family": "Accessories",
+    "name": "MA-INJ-6",
+    "url": "https://meraki.cisco.com/products/accessories/ma-inj-6/",
+    "images": [],
+    "content": {
+      "Overview": "MA-INJ-6 Reliable , standards-compliant power for your Meraki devices\nMA-INJ-6providesincreasedflexibility,reducedinstallationtimeandcost.Oneofthemainconstraintswhendesigningyourwirelessnetworkistheavailabilityof\npower.Runningpowercablingisalsoaprimarycostdriverofwirelessinstallations.TheMerakiMultigigabitPoEinjectorallowsdeliveryofbothdataandpower\ntoaMerakiaccesspointoverasingleEthernetcable,allowingdeploymentofdevicesexactlywheretheyareneededtoprovidethebestwirelesscoverageata\nmuch lower installation cost.\nTheMerakiMultigigabit802.3btPoEInjectorMA-INJ-6providesfully-compliant802.3btdetection,withdisconnect,short-circuitandoverloadprotection.This\nensures that only 802.3bt, 802.3at and 802.3af devices receive power and non-compliant devices are not accidentally damaged.\nUsingthisinjector,itispossibletopowerthelatestgenerationofWifi-6,6EandfutureWiFi-7devicesthatrequire802.3btpowerdeliveredvia10GMultigigabit\ninterfaces, as well as providing backward compatibility with legacy 802.11n devices with traditional 802.3af power. Regardless of the deployment scenario,\npoweringMerakideviceswithMultigigabit802.3btPoweroverEthernetisaflexibleandlow-costmethodtosimplifytheinstallationprocesswhileensuringthat\nnetwork design is not compromised by power availability limitations.",
+      "Features": [
+        "Reduces cost and simplifies installations by eliminating the need to provide separate power line",
+        "Increases installation flexibility by powering devices from up to 100 meters away",
+        "Fully IEEE 802.3bt standard compliant",
+        "Supports 10/100/1000BASE-T and 10 Gbps Multigigabit Ethernet"
+      ],
+      "Specifications": {
+        "Input Voltage": "100 to 240 VAC",
+        "Maximal Input Current": "2.0A(RMS) 90VAC @ MaxLoad1.2A(RMS) 240VAC@Max Load",
+        "AC Input Frequency": "50-60 Hz",
+        "Output Voltage": "55 VDC",
+        "Maximum Output Power": "60W",
+        "Max Device Distance": "100m away from power injector",
+        "Ethernet Compatibility": "10/100/1000/2500/5000/10000 Multigigabit Ethernet (10Gb)",
+        "Operating Temperature": "-10 to 60°C (14 to 140°F)",
+        "Storage Temperature": "-20 to 65°C (-4to 149°F)",
+        "Operating Humidity": "Maximum 90%",
+        "Dimensions": "163.25 mm (6.4\") * x 65 mm(2.5\") x40 mm (1.5\")",
+        "Weight": "312g (11 oz).",
+        "Mounting": "ears on opposite corners of the injector",
+        "Standards Compliance": "IEEE 802.3bt (backward compatible with 802.3af and 802.3at)",
+        "Regulatory": [
+          "FCC Part 15 Class B",
+          "EN55022 Class B",
+          "EN55024,EN55032",
+          "CE, VCCI",
+          "UL 60950-1,UL 62368"
+        ],
+        "LED Indicators": [
+          "Input power",
+          "Detected/connected to valid 802.3bt load",
+          "Power and load detection diagnostic LEDs",
+          "Solid Green: Detection/Connection Valid & Output \"ON\"",
+          "Blink Amber(short, slow): Waiting for a Valid Connection/Detection",
+          "Blink Amber (long, fast): Fault Condition",
+          "Blink Amber & Green: Detection Invalid"
+        ],
+        "Warranty": "1 Year Hardware"
+      },
+      "Usage": "Powers Wi-Fi 6, 6E and Wi-Fi 7 Meraki access points via single Ethernet cable; backward compatible with 802.3af/at devices",
+      "Performance": {
+        "Maximum Output Power": "60W",
+        "Output Voltage": "55 VDC",
+        "Ethernet Compatibility": "10/100/1000/2500/5000/10000 Multigigabit Ethernet (10Gb)",
+        "Max Device Distance": "100m away from power injector"
+      },
+      "Ordering": {
+        "SKU": "MA-INJ-6",
+        "Power Cords": [
+          {
+            "sku": "MA-PWR-CORD-US",
+            "region": "USA plug"
+          },
+          {
+            "sku": "MA-PWR-CORD-UK",
+            "region": "United Kingdom plug"
+          },
+          {
+            "sku": "MA-PWR-CORD-CN",
+            "region": "China plug"
+          },
+          {
+            "sku": "MA-PWR-CORD-IN",
+            "region": "India plug"
+          },
+          {
+            "sku": "MA-PWR-CORD-EU",
+            "region": "EU plug"
+          },
+          {
+            "sku": "MA-PWR-CORD-BR",
+            "region": "Brazil plug"
+          },
+          {
+            "sku": "MA-PWR-CORD-AR",
+            "region": "Argentina plug"
+          },
+          {
+            "sku": "MA-PWR-CORD-AU",
+            "region": "Australia plug"
+          },
+          {
+            "sku": "MA-PWR-CORD-JP",
+            "region": "Japan plug, SKU no longer active, same as US cord"
+          },
+          {
+            "sku": "MA-PWR-CORD-TW",
+            "region": "Taiwan plug"
+          }
+        ],
+        "Note": "Power cords ordered separately"
+      }
+    }
+  }
+]
